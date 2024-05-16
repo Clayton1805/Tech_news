@@ -1,0 +1,1520 @@
+{
+    "bairro_zona": [
+        {
+            "bairro": "Águas da Prata",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Águas do Canindu",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Alto da Ponte",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Altos da Vila Paiva",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Altos do Uirá",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Araújo",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Bairrinho",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Bairro Cajurú",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Bairro dos Ferreiras",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Bairro dos Pinheiros",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Martins Guimarães",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Mato Dentro",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Serimbura",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Banhado",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Beira Rio",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Bica d'Água",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Bom Retiro",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Bosque dos Eucaliptos",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Bosque dos Ipês",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Bosque Imperial",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Buquirinha",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Caête",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Cambucá",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Campo dos Alemães",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Campos de São José",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Capão Grosso",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Capão Grosso II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Capitingal",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Caramujo",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Castanheira II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Centro",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Chácara Boa Esperança",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Chácara Capão Grosso",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Chácara dos Eucaliptos",
+            "zona": "Centro/Leste"
+        },
+        {
+            "bairro": "Chácara Majestic",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Chácara Pousada do Vale",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Chácara Santa Luzia",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Chácara São Vicente",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Chácara Sítio Jataí",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Chácaras Reunidas",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Chácaras São José",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Cidade Morumbi",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Cidade Vista Verde",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Colinas do Parahyba",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Condomínio Floresta",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Conj. Hab. Dom Pedro I",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Hab. Dom Pedro II",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Hab. Elmano F. Veloso",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Hab. Intervale",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Conj. Hab. Polícia Militar",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Conj. Hab. São Geraldo",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Conj. Hab. São José",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Conj. Hab. Vale dos Pinheiros",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Conj. Hab. Vila Tatetuba",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Conj. Integração",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Conj. Res. 31 de Março",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Res. Cidade Jardim",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Res. Jardim das Flores",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Conj. Res. JK",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Conj. Res. Monte Castelo",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Conj. Res. Morada do Sol",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Res. Morumbi",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Res. Nosso Teto",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Conj. Res. Nova Cristina",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Conj. Res. Papa João Paulo II",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Res. Parque das Américas",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Conj. Res. Planalto",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Conj. Res. Primavera",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Res. Recanto dos Eucaliptos",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Res. Recanto dos Pinheiros",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. Res. Sol Nascente",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Conj. São Judas Tadeu",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "DCTA",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Ebenezer",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Espelho d'Água",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Eugênio de Melo",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Favela Vila Nova Esperança",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Favela Vila Rhodia",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Fazenda Bom Retiro",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Fazenda Honda",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Fazenda Jataí",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Fazenda Nossa Senhora da Conceição",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Fazenda Pilão Arcado",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Fazenda Taira",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Fazenda Takanashi",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Fazenda Toninho Ferreira",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Fazenda Vila Franca",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Floradas de São José",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Frei Galvão",
+            "zona": "Bairro mais nobre da zona sul."
+        },
+        {
+            "bairro": "Hawai",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jaguariuna",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Aeroporto",
+            "zona": "Norte/Oeste"
+        },
+        {
+            "bairro": "Jardim Altos de Santana",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Altos do Esplanada",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Alvorada",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Jardim América",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Jardim Americano",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Anhembi",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Aparecida",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Apolo I",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Apolo II",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Residencial Jardim Aquarius",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Augusta",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Jardim Azevedo",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Bandeirantes",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Bela Vista",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Boa Vista",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Brasília",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Cassiano Ricardo",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Castanheiras",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Jardim Cerejeiras",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim das Colinas",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Colonial",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Jardim Colorado",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Copacabana",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim Coqueiro",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Corinthians",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Cruzeiro do Sul",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim da Granja",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim das Azaléias",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim das Indústrias",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim das Paineiras I",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Jardim das Paineiras II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Del Rey",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Diamante",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim do Céu",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim do Lago",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim dos Bandeirantes",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Esplanada",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Esplanada II",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Estoril",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Frei Leopoldo",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Guimarães",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Helena",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Imperial",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Ipê",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Ismênia",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Itapuã",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Jaci",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Juliana",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Jussara",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Madureira",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Maracanã",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Margareth",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Mariana",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Mariana II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Maringá",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Maritéia",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Matarazzo",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Mesquita",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Motorama",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Nossa Senhora de Fátima",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Nova América",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Nova Detroit",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Nova Europa",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Nova Flórida",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Nova Michigan",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Nova Paulicéia",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Nova República",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Olímpia",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Oriental",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Oriente",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Oswaldo Cruz",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Ouro Preto",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Paraíso",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Paraíso do Sol",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Pararangaba",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Paulista",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Petrópolis",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Pôr do Sol",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Jardim Portugal",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Renata",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim República",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Rosário",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim San Rafael",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Santa Edwiges",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Santa Fé",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim Santa Inês I",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Santa Inês II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Santa Inês III",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Santa Julia",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim Santa Lúcia",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Santa Luzia",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim Santa Madalena",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Santa Maria",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Santa Matilde",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Santa Rosa",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim Santo Onofre",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim Santos Dumont",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim São Dimas",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim São Jorge",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim São Judas Tadeu",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim São Leopoldo",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim São Vicente",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Satélite",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Souto",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim Sul",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Telespark",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Jardim Terras do Sul",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Topázio",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Três José",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Uirá",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Jardim Universo",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Vale do Sol",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Jardim Vale Paraíso",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Jardim Valparaíba",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Jardim Veneza",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Limoeiro",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Mantiqueira I",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Mantiqueira II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Maravilhas do Cajuru",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Miranda",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Mirante I",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Mirante II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Monte Castelo",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Morada do Fênix",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Morada do Sol",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Nossa Senhora do Bom Retiro",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Nova Michigan II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Nova Michigan III",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Nova Michigan IV",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Oliveiras",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Palmeiras de São José",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Parque dos Ipês",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Parque Independência",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Parque Industrial",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Parque Interlagos",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Parque Martim Cererê",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Parque Nova Esperança",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Parque Novo Horizonte",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Parque Residencial Aquarius",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Parque Residencial União",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Parque Santa Rita",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Parque Santos Dumont",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Pernambucana de Baixo",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Pernambucana de Cima",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Pinheirinho",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Portal do Céu",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Pousada do Vale",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Primavera I",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Primavera II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Projeto Torrão de Ouro",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Putim",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Quinta das Flores",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Recanto Caetê",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Recanto das Jabuticabeiras",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Recanto do Vale",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Recanto dos Eucaliptos",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Recanto dos Lagos",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Recanto dos Nobres",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Renascer I",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Renascer II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Res. Altos do Bosque",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Res. Ana Maria",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Res. Armando Moreira Righi",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Res. Bell Park",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Res. Cambuí",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Res. da Ribeira",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Res. De Ville",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Res. Dom Bosco",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Res. Esplanada do Sol",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Res. Flamboyant",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Res. Galo Branco",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Res. Gazzo",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Res. Jardins",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Res. Jatobá",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Res. Juritis",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Res. Martins Pereira",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Res. San Marino",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Res. Santa Rosa",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Res. São Francisco",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Res. Sunset Park",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Res. Vista Linda",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Ressaca",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Rhodia",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Rio Comprido",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Royal Park",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Santa Cecília I",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Santa Cecília II",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Santa Helena",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Santa Hermínia",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Santa Maria I",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Santa Rita",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Santana",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "São Francisco Xavier",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "São Sebastião",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Serrote",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Sítio Bom Jesus",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Sítio Encantado",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Terra Brasilis",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Terra Nova",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Terrinha",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Torrão de Ouro",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Torrão de Ouro I",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Torrão de Ouro II",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Urbanova",
+            "zona": "Oeste"
+        },
+        {
+            "bairro": "Vargem Grande",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Abel",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Adriana I",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Vila Adriana II",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Vila Ady'Ana",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Alexandrina",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Betânia",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Cândida",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Cardoso",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila César",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Chiquinha",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Cristina",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila das Acácias",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Vila Dirce",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila do Carmo",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila do Pena",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Ema",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Esmeralda",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Ester",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Vila Guaianazes",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Guarani",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Higienópolis",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Icaraí",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Igualdade",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Industrial",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Vila Ipiranga",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Iracema",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Vila Jaci",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Kennedy",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Leila",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Leila II",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Leonídia",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Letônia",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Vila Luchetti",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Vila Luzia",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Machado",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Maria",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Mascarenhas Ferraz",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Matilde",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Vila Monte Alegre",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Monterrey",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Vila Nair",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Vila Nossa Senhora das Graças",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Nova Conceição",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Vila Nova Guarani",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Nova São José",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Nove de Julho",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Paganini",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Paiva",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Pasto Alto",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Patrícia",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Vila Paulo Setúbal",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Piratininga",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Progresso",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Rangel",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Rica",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Vila Rossi",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Rubi",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Sanches",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Santa Cruz I",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Santa Cruz II",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Santa Cruz III",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Santa Helena",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Santa Luzia",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Santa Rita",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Santarém",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Santos",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila São Benedito",
+            "zona": "Sudeste"
+        },
+        {
+            "bairro": "Vila São Bento",
+            "zona": "Sul"
+        },
+        {
+            "bairro": "Vila São Geraldo",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila São Paulo",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila São Pedro",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Simone",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Sinhá",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Tatetuba",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Vila Terezinha",
+            "zona": "Centro"
+        },
+        {
+            "bairro": "Vila Tesouro",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Vila Unidos",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Veneziani",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vila Zizinha",
+            "zona": "Norte"
+        },
+        {
+            "bairro": "Vilaggio d'Antonini",
+            "zona": "Leste"
+        },
+        {
+            "bairro": "Xingu",
+            "zona": "Sul"
+        }
+    ]
+}

@@ -1,0 +1,1021 @@
+{
+    "bairros": [
+        {
+            "bairro": "Águas da Prata"
+        },
+        {
+            "bairro": "Águas do Canindú"
+        },
+        {
+            "bairro": "Alto da Ponte"
+        },
+        {
+            "bairro": "Altos da Vila Paiva"
+        },
+        {
+            "bairro": "Altos do Caetê I"
+        },
+        {
+            "bairro": "Altos do Caetê II"
+        },
+        {
+            "bairro": "Altos do Esplanada"
+        },
+        {
+            "bairro": "Área Rural de São Francisco Xavier"
+        },
+        {
+            "bairro": "Área Rural de São José dos Campos"
+        },
+        {
+            "bairro": "Bairro da Pernambucana"
+        },
+        {
+            "bairro": "Bom Retiro"
+        },
+        {
+            "bairro": "Bosque dos Eucaliptos"
+        },
+        {
+            "bairro": "Buquirinha"
+        },
+        {
+            "bairro": "Buquirinha II"
+        },
+        {
+            "bairro": "Cajuru"
+        },
+        {
+            "bairro": "Campo dos Alemães"
+        },
+        {
+            "bairro": "Campos de São José"
+        },
+        {
+            "bairro": "Campus do CTA"
+        },
+        {
+            "bairro": "Capão Grosso II-C"
+        },
+        {
+            "bairro": "Capão Grosso II-D"
+        },
+        {
+            "bairro": "Capuava"
+        },
+        {
+            "bairro": "Centro"
+        },
+        {
+            "bairro": "Chácara dos Coqueiros"
+        },
+        {
+            "bairro": "Chácara dos Eucalíptos"
+        },
+        {
+            "bairro": "Chácara São Sebastião"
+        },
+        {
+            "bairro": "Chácaras Araújo I"
+        },
+        {
+            "bairro": "Chácaras Araújo II"
+        },
+        {
+            "bairro": "Chácaras Boa Esperança"
+        },
+        {
+            "bairro": "Chácaras Oliveiras"
+        },
+        {
+            "bairro": "Chácaras Pousada do Vale"
+        },
+        {
+            "bairro": "Chácaras Reunidas"
+        },
+        {
+            "bairro": "Chácaras São José"
+        },
+        {
+            "bairro": "Cidade Morumbi"
+        },
+        {
+            "bairro": "Cidade Vista Verde"
+        },
+        {
+            "bairro": "Condomínio Bosque Imperial"
+        },
+        {
+            "bairro": "Condomínio Centro Empresarial Taquari"
+        },
+        {
+            "bairro": "Condomínio Chácara dos Eucaliptos"
+        },
+        {
+            "bairro": "Condomínio Chácara Serimbura"
+        },
+        {
+            "bairro": "Condomínio Colinas do Parahyba"
+        },
+        {
+            "bairro": "Condomínio Espelho D'água"
+        },
+        {
+            "bairro": "Condomínio Esplanada do Sol"
+        },
+        {
+            "bairro": "Condomínio Loteamento Reserva da Barra"
+        },
+        {
+            "bairro": "Condomínio Loteamento Reserva das Figueiras"
+        },
+        {
+            "bairro": "Condomínio Quinta das Flores"
+        },
+        {
+            "bairro": "Condomínio Recanto da Baronesa"
+        },
+        {
+            "bairro": "Condomínio Reserva do Paratehy"
+        },
+        {
+            "bairro": "Condomínio Residencial Alphaville I"
+        },
+        {
+            "bairro": "Condomínio Residencial Alphaville II"
+        },
+        {
+            "bairro": "Condomínio Residencial Altos da Quinta"
+        },
+        {
+            "bairro": "Condomínio Residencial Bell Park"
+        },
+        {
+            "bairro": "Condomínio Residencial Campo Belo"
+        },
+        {
+            "bairro": "Condomínio Residencial Colinas do Paratehy"
+        },
+        {
+            "bairro": "Condomínio Residencial Floresta"
+        },
+        {
+            "bairro": "Condomínio Residencial Jaguari - Área 5"
+        },
+        {
+            "bairro": "Condomínio Residencial Jaguary"
+        },
+        {
+            "bairro": "Condomínio Residencial Jardins"
+        },
+        {
+            "bairro": "Condomínio Residencial Mantiqueira"
+        },
+        {
+            "bairro": "Condomínio Residencial Monaco"
+        },
+        {
+            "bairro": "Condomínio Residencial Mont Blanc"
+        },
+        {
+            "bairro": "Condomínio Residencial Monte Carlo"
+        },
+        {
+            "bairro": "Condomínio Residencial Montserrat"
+        },
+        {
+            "bairro": "Condomínio Residencial Terra Nova"
+        },
+        {
+            "bairro": "Condomínio Royal Park"
+        },
+        {
+            "bairro": "Condominio Spazio Campo Azuli"
+        },
+        {
+            "bairro": "Condomínio Sunset Park"
+        },
+        {
+            "bairro": "Condomínio Villagio Fazendão"
+        },
+        {
+            "bairro": "Conjunto Habitacional Santa Luzia"
+        },
+        {
+            "bairro": "Conjunto Habitacional São José dos Campos A"
+        },
+        {
+            "bairro": "Conjunto Papa João Paulo II"
+        },
+        {
+            "bairro": "Conjunto Residencial Dom Pedro I"
+        },
+        {
+            "bairro": "Conjunto Residencial Dom Pedro II"
+        },
+        {
+            "bairro": "Conjunto Residencial Elmano Veloso"
+        },
+        {
+            "bairro": "Conjunto Residencial Galo Branco"
+        },
+        {
+            "bairro": "Conjunto Residencial Intervale"
+        },
+        {
+            "bairro": "Conjunto Residencial Nosso Teto"
+        },
+        {
+            "bairro": "Conjunto Residencial Trinta e Um de Março"
+        },
+        {
+            "bairro": "Conjunto Residencial Vale dos Pinheiros"
+        },
+        {
+            "bairro": "Conjunto Residencial Vila Leila"
+        },
+        {
+            "bairro": "Costinha"
+        },
+        {
+            "bairro": "Eldorado"
+        },
+        {
+            "bairro": "Eugênio de Mello"
+        },
+        {
+            "bairro": "Floradas de São José"
+        },
+        {
+            "bairro": "Freitas"
+        },
+        {
+            "bairro": "Jaguari"
+        },
+        {
+            "bairro": "Jardim Aeroporto"
+        },
+        {
+            "bairro": "Jardim Allah"
+        },
+        {
+            "bairro": "Jardim Altos de Santana"
+        },
+        {
+            "bairro": "Jardim Alvorada"
+        },
+        {
+            "bairro": "Jardim América"
+        },
+        {
+            "bairro": "Jardim Americano"
+        },
+        {
+            "bairro": "Jardim Anhembi"
+        },
+        {
+            "bairro": "Jardim Aparecida"
+        },
+        {
+            "bairro": "Jardim Apolo"
+        },
+        {
+            "bairro": "Jardim Apolo I"
+        },
+        {
+            "bairro": "Jardim Apolo II"
+        },
+        {
+            "bairro": "Jardim Aquárius"
+        },
+        {
+            "bairro": "Jardim Augusta"
+        },
+        {
+            "bairro": "Jardim Azaléias"
+        },
+        {
+            "bairro": "Jardim Beira Rio"
+        },
+        {
+            "bairro": "Jardim Bela Vista"
+        },
+        {
+            "bairro": "Jardim Boa Vista"
+        },
+        {
+            "bairro": "Jardim Brasília"
+        },
+        {
+            "bairro": "Jardim Capitingal"
+        },
+        {
+            "bairro": "Jardim Castanheira"
+        },
+        {
+            "bairro": "Jardim Colonial"
+        },
+        {
+            "bairro": "Jardim Colorado"
+        },
+        {
+            "bairro": "Jardim Copacabana"
+        },
+        {
+            "bairro": "Jardim Cruzeiro do Sul"
+        },
+        {
+            "bairro": "Jardim da Granja"
+        },
+        {
+            "bairro": "Jardim das Cerejeiras"
+        },
+        {
+            "bairro": "Jardim das Colinas"
+        },
+        {
+            "bairro": "Jardim das Flores"
+        },
+        {
+            "bairro": "Jardim das Indústrias"
+        },
+        {
+            "bairro": "Jardim das Paineiras I"
+        },
+        {
+            "bairro": "Jardim das Paineiras II"
+        },
+        {
+            "bairro": "Jardim Del Rey"
+        },
+        {
+            "bairro": "Jardim Diamante"
+        },
+        {
+            "bairro": "Jardim do Céu"
+        },
+        {
+            "bairro": "Jardim do Golfe"
+        },
+        {
+            "bairro": "Jardim do Lago"
+        },
+        {
+            "bairro": "Jardim dos Bandeirantes"
+        },
+        {
+            "bairro": "Jardim Ebenézer"
+        },
+        {
+            "bairro": "Jardim Esplanada"
+        },
+        {
+            "bairro": "Jardim Esplanada II"
+        },
+        {
+            "bairro": "Jardim Estoril"
+        },
+        {
+            "bairro": "Jardim Fátima"
+        },
+        {
+            "bairro": "Jardim Guimarães"
+        },
+        {
+            "bairro": "Jardim Imperial"
+        },
+        {
+            "bairro": "Jardim Ismênia"
+        },
+        {
+            "bairro": "Jardim Itapoã"
+        },
+        {
+            "bairro": "Jardim Juliana"
+        },
+        {
+            "bairro": "Jardim Limoeiro"
+        },
+        {
+            "bairro": "Jardim Madureira"
+        },
+        {
+            "bairro": "Jardim Majestic"
+        },
+        {
+            "bairro": "Jardim Maracanã"
+        },
+        {
+            "bairro": "Jardim Margareth"
+        },
+        {
+            "bairro": "Jardim Mariana I"
+        },
+        {
+            "bairro": "Jardim Mariana II"
+        },
+        {
+            "bairro": "Jardim Maringá"
+        },
+        {
+            "bairro": "Jardim Maritéia"
+        },
+        {
+            "bairro": "Jardim Mesquita"
+        },
+        {
+            "bairro": "Jardim Minas Gerais"
+        },
+        {
+            "bairro": "Jardim Motorama"
+        },
+        {
+            "bairro": "Jardim Nova América"
+        },
+        {
+            "bairro": "Jardim Nova Detroit"
+        },
+        {
+            "bairro": "Jardim Nova Esperança (Banhado)"
+        },
+        {
+            "bairro": "Jardim Nova Flórida"
+        },
+        {
+            "bairro": "Jardim Nova Michigan"
+        },
+        {
+            "bairro": "Jardim Nova Michigan II"
+        },
+        {
+            "bairro": "Jardim Nova República"
+        },
+        {
+            "bairro": "Jardim Olímpia"
+        },
+        {
+            "bairro": "Jardim Oriente"
+        },
+        {
+            "bairro": "Jardim Oswaldo Cruz"
+        },
+        {
+            "bairro": "Jardim Ouro Preto"
+        },
+        {
+            "bairro": "Jardim Paraíso"
+        },
+        {
+            "bairro": "Jardim Paraíso do Sol"
+        },
+        {
+            "bairro": "Jardim Pararangaba"
+        },
+        {
+            "bairro": "Jardim Paulista"
+        },
+        {
+            "bairro": "Jardim Petrópolis"
+        },
+        {
+            "bairro": "Jardim Portugal"
+        },
+        {
+            "bairro": "Jardim Primavera II"
+        },
+        {
+            "bairro": "Jardim Renata"
+        },
+        {
+            "bairro": "Jardim República"
+        },
+        {
+            "bairro": "Jardim Rodolfo"
+        },
+        {
+            "bairro": "Jardim Rosário"
+        },
+        {
+            "bairro": "Jardim San Marino"
+        },
+        {
+            "bairro": "Jardim San Rafael"
+        },
+        {
+            "bairro": "Jardim Santa Cecília I"
+        },
+        {
+            "bairro": "Jardim Santa Hermínia"
+        },
+        {
+            "bairro": "Jardim Santa Inês I"
+        },
+        {
+            "bairro": "Jardim Santa Inês II"
+        },
+        {
+            "bairro": "Jardim Santa Inês III"
+        },
+        {
+            "bairro": "Jardim Santa Júlia"
+        },
+        {
+            "bairro": "Jardim Santa Luzia"
+        },
+        {
+            "bairro": "Jardim Santa Madalena"
+        },
+        {
+            "bairro": "Jardim Santa Maria"
+        },
+        {
+            "bairro": "Jardim Santa Maria II"
+        },
+        {
+            "bairro": "Jardim Santa Maria III"
+        },
+        {
+            "bairro": "Jardim Santa Maria IV"
+        },
+        {
+            "bairro": "Jardim Santa Matilde"
+        },
+        {
+            "bairro": "Jardim Santa Rosa"
+        },
+        {
+            "bairro": "Jardim Santarém"
+        },
+        {
+            "bairro": "Jardim Santo Onofre"
+        },
+        {
+            "bairro": "Jardim São Dimas"
+        },
+        {
+            "bairro": "Jardim São Jorge"
+        },
+        {
+            "bairro": "Jardim São José Centro"
+        },
+        {
+            "bairro": "Jardim São José II"
+        },
+        {
+            "bairro": "Jardim São José Leste"
+        },
+        {
+            "bairro": "Jardim São Judas Tadeu"
+        },
+        {
+            "bairro": "Jardim São Leopoldo"
+        },
+        {
+            "bairro": "Jardim São Vicente"
+        },
+        {
+            "bairro": "Jardim Satélite"
+        },
+        {
+            "bairro": "Jardim Serimbura"
+        },
+        {
+            "bairro": "Jardim Souto"
+        },
+        {
+            "bairro": "Jardim Sul"
+        },
+        {
+            "bairro": "Jardim Telespark"
+        },
+        {
+            "bairro": "Jardim Terras do Sul"
+        },
+        {
+            "bairro": "Jardim Topázio"
+        },
+        {
+            "bairro": "Jardim Torrão de Ouro"
+        },
+        {
+            "bairro": "Jardim Três José"
+        },
+        {
+            "bairro": "Jardim Uirá"
+        },
+        {
+            "bairro": "Jardim Vale do Sol"
+        },
+        {
+            "bairro": "Jardim Valparaíba"
+        },
+        {
+            "bairro": "Jardim Veneza"
+        },
+        {
+            "bairro": "Loteamento Boa Esperança"
+        },
+        {
+            "bairro": "Loteamento Boa Esperança I"
+        },
+        {
+            "bairro": "Loteamento Boa Esperança II"
+        },
+        {
+            "bairro": "Loteamento Cidade Tecnológica"
+        },
+        {
+            "bairro": "Loteamento Conjunto Morada do Sol II"
+        },
+        {
+            "bairro": "Loteamento Estância Nova Jersey"
+        },
+        {
+            "bairro": "Loteamento Floresta"
+        },
+        {
+            "bairro": "Loteamento Jardim Ebenezer II"
+        },
+        {
+            "bairro": "Loteamento Jardim Helena"
+        },
+        {
+            "bairro": "Loteamento Portal Santa Inês"
+        },
+        {
+            "bairro": "Loteamento Residencial Vista Linda"
+        },
+        {
+            "bairro": "Loteamento Santa Edwiges"
+        },
+        {
+            "bairro": "Loteamento Setparque São José dos Campos"
+        },
+        {
+            "bairro": "Loteamento Terra Brasilis"
+        },
+        {
+            "bairro": "Loteamento Tom Jobim"
+        },
+        {
+            "bairro": "Loteamento Urbanova II"
+        },
+        {
+            "bairro": "Loteamento Verana"
+        },
+        {
+            "bairro": "Loteamento Vivant Urbanova"
+        },
+        {
+            "bairro": "Mirante do Buquirinha"
+        },
+        {
+            "bairro": "Monte Castelo"
+        },
+        {
+            "bairro": "Morada do Sol"
+        },
+        {
+            "bairro": "Palmeiras de São José"
+        },
+        {
+            "bairro": "Parque dos Ipês"
+        },
+        {
+            "bairro": "Parque Independencia"
+        },
+        {
+            "bairro": "Parque Industrial"
+        },
+        {
+            "bairro": "Parque Interlagos"
+        },
+        {
+            "bairro": "Parque Martim Cererê"
+        },
+        {
+            "bairro": "Parque Nova Esperança"
+        },
+        {
+            "bairro": "Parque Novo Horizonte"
+        },
+        {
+            "bairro": "Parque Residencial Aquarius"
+        },
+        {
+            "bairro": "Parque Residencial Flamboyant"
+        },
+        {
+            "bairro": "Parque Santa Rita"
+        },
+        {
+            "bairro": "Parque Santos Dumont"
+        },
+        {
+            "bairro": "Portal de Minas"
+        },
+        {
+            "bairro": "Portal do Céu"
+        },
+        {
+            "bairro": "Portal dos Passaros"
+        },
+        {
+            "bairro": "Primavera 1A"
+        },
+        {
+            "bairro": "Primavera 1B"
+        },
+        {
+            "bairro": "Putim"
+        },
+        {
+            "bairro": "Recanto Caeté"
+        },
+        {
+            "bairro": "Recanto dos Eucaliptos"
+        },
+        {
+            "bairro": "Recanto dos Nobres"
+        },
+        {
+            "bairro": "Recanto dos Pinheiros"
+        },
+        {
+            "bairro": "Residencial Alto dos Ypês"
+        },
+        {
+            "bairro": "Residencial Altos do Bosque"
+        },
+        {
+            "bairro": "Residencial Ana Maria"
+        },
+        {
+            "bairro": "Residencial Armando Moreira Righi"
+        },
+        {
+            "bairro": "Residencial Bosque dos Ipês"
+        },
+        {
+            "bairro": "Residencial Cambuí"
+        },
+        {
+            "bairro": "Residencial Caminho das Montanhas"
+        },
+        {
+            "bairro": "Residencial de Ville"
+        },
+        {
+            "bairro": "Residencial Dom Bosco"
+        },
+        {
+            "bairro": "Residencial Dunamis"
+        },
+        {
+            "bairro": "Residencial Frei Galvão"
+        },
+        {
+            "bairro": "Residencial Gazzo"
+        },
+        {
+            "bairro": "Residencial Independência"
+        },
+        {
+            "bairro": "Residencial Interlagos"
+        },
+        {
+            "bairro": "Residencial Jatobá"
+        },
+        {
+            "bairro": "Residencial Juritis"
+        },
+        {
+            "bairro": "Residencial Pinheirinho dos Palmares II"
+        },
+        {
+            "bairro": "Residencial Planalto"
+        },
+        {
+            "bairro": "Residencial Ribeira"
+        },
+        {
+            "bairro": "Residencial São Francisco"
+        },
+        {
+            "bairro": "Residencial Sol Nascente"
+        },
+        {
+            "bairro": "Residencial Tatetuba"
+        },
+        {
+            "bairro": "Residencial União"
+        },
+        {
+            "bairro": "Rio Comprido"
+        },
+        {
+            "bairro": "Ronda"
+        },
+        {
+            "bairro": "Santa Cecília II"
+        },
+        {
+            "bairro": "Santa Helena"
+        },
+        {
+            "bairro": "Santa Lúcia"
+        },
+        {
+            "bairro": "Santa Rita"
+        },
+        {
+            "bairro": "Santana"
+        },
+        {
+            "bairro": "Serimbura"
+        },
+        {
+            "bairro": "Serrote"
+        },
+        {
+            "bairro": "Setville Altos de São José"
+        },
+        {
+            "bairro": "Torrão de Ouro II"
+        },
+        {
+            "bairro": "Urbanova"
+        },
+        {
+            "bairro": "Urbanova I"
+        },
+        {
+            "bairro": "Urbanova III"
+        },
+        {
+            "bairro": "Urbanova IV-A"
+        },
+        {
+            "bairro": "Urbanova V"
+        },
+        {
+            "bairro": "Urbanova VI"
+        },
+        {
+            "bairro": "Urbanova VII"
+        },
+        {
+            "bairro": "Vila Adriana"
+        },
+        {
+            "bairro": "Vila Adyana"
+        },
+        {
+            "bairro": "Vila Alexandrina"
+        },
+        {
+            "bairro": "Vila Betânia"
+        },
+        {
+            "bairro": "Vila Cândida"
+        },
+        {
+            "bairro": "Vila Cardoso"
+        },
+        {
+            "bairro": "Vila Cristina"
+        },
+        {
+            "bairro": "Vila das Flores"
+        },
+        {
+            "bairro": "Vila Dirce"
+        },
+        {
+            "bairro": "Vila Ema"
+        },
+        {
+            "bairro": "Vila Esmeralda"
+        },
+        {
+            "bairro": "Vila Ester"
+        },
+        {
+            "bairro": "Vila Guaianazes"
+        },
+        {
+            "bairro": "Vila Guarani"
+        },
+        {
+            "bairro": "Vila Higienópolis"
+        },
+        {
+            "bairro": "Vila Industrial"
+        },
+        {
+            "bairro": "Vila Iracema"
+        },
+        {
+            "bairro": "Vila Jaci"
+        },
+        {
+            "bairro": "Vila Letônia"
+        },
+        {
+            "bairro": "Vila Lourdes da Silva Monteiro (São Francisco Xavier)"
+        },
+        {
+            "bairro": "Vila Luchetti"
+        },
+        {
+            "bairro": "Vila Maria"
+        },
+        {
+            "bairro": "Vila Mascarenhas Ferraz"
+        },
+        {
+            "bairro": "Vila Matilde"
+        },
+        {
+            "bairro": "Vila Monte Alegre"
+        },
+        {
+            "bairro": "Vila Monterrey"
+        },
+        {
+            "bairro": "Vila Nair"
+        },
+        {
+            "bairro": "Vila Nova Conceição"
+        },
+        {
+            "bairro": "Vila Nova Cristina"
+        },
+        {
+            "bairro": "Vila Nova São José"
+        },
+        {
+            "bairro": "Vila Paiva"
+        },
+        {
+            "bairro": "Vila Patrícia"
+        },
+        {
+            "bairro": "Vila Progresso"
+        },
+        {
+            "bairro": "Vila Rangel"
+        },
+        {
+            "bairro": "Vila Rica"
+        },
+        {
+            "bairro": "Vila Rossi"
+        },
+        {
+            "bairro": "Vila Rubi"
+        },
+        {
+            "bairro": "Vila Sanches"
+        },
+        {
+            "bairro": "Vila Santa Helena"
+        },
+        {
+            "bairro": "Vila Santa Rita"
+        },
+        {
+            "bairro": "Vila São Benedito"
+        },
+        {
+            "bairro": "Vila São Bento"
+        },
+        {
+            "bairro": "Vila São Geraldo"
+        },
+        {
+            "bairro": "Vila São Pedro"
+        },
+        {
+            "bairro": "Vila Sinhá"
+        },
+        {
+            "bairro": "Vila Tatetuba"
+        },
+        {
+            "bairro": "Vila Terezinha"
+        },
+        {
+            "bairro": "Vila Tesouro"
+        },
+        {
+            "bairro": "Vila Unidos"
+        },
+        {
+            "bairro": "Vila Veneziani"
+        },
+        {
+            "bairro": "Vila Zizinha"
+        }
+    ]
+}

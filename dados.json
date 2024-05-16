@@ -1,0 +1,2377 @@
+{
+    "finish_result": [
+        {
+            "bairro_via_cep_1": "Águas da Prata",
+            "bairro_via_cep_2": "Águas da Prata",
+            "bairro_site_____": "Águas da Prata",
+            "cep_1": "12225261",
+            "cep_2": "12225261"
+        },
+        {
+            "bairro_via_cep_1": "Águas do Canindú",
+            "bairro_via_cep_2": "Águas do Canindú",
+            "bairro_site_____": "Águas do Canindú",
+            "cep_1": "12213120",
+            "cep_2": "12213120"
+        },
+        {
+            "bairro_via_cep_1": "Alto da Ponte",
+            "bairro_via_cep_2": "Alto da Ponte",
+            "bairro_site_____": "Alto da Ponte",
+            "cep_1": "12212300",
+            "cep_2": "12213900"
+        },
+        {
+            "bairro_via_cep_1": "Altos da Vila Paiva",
+            "bairro_via_cep_2": "Altos da Vila Paiva",
+            "bairro_site_____": "Altos da Vila Paiva",
+            "cep_1": "12213060",
+            "cep_2": "12213114"
+        },
+        {
+            "bairro_via_cep_1": "Altos do Caetê I",
+            "bairro_via_cep_2": "Altos do Caetê I",
+            "bairro_site_____": "Altos do Caetê I",
+            "cep_1": "12213132",
+            "cep_2": "12213135"
+        },
+        {
+            "bairro_via_cep_1": "Altos do Caetê II",
+            "bairro_via_cep_2": "Altos do Caetê II",
+            "bairro_site_____": "Altos do Caetê II",
+            "cep_1": "12213151",
+            "cep_2": "12213151"
+        },
+        {
+            "bairro_via_cep_1": "Altos do Esplanada",
+            "bairro_via_cep_2": "Altos do Esplanada",
+            "bairro_site_____": "Altos do Esplanada",
+            "cep_1": "12246011",
+            "cep_2": "12246015"
+        },
+        {
+            "bairro_via_cep_1": "Área Rural de São Francisco Xavier",
+            "bairro_via_cep_2": "Área Rural de São Francisco Xavier",
+            "bairro_site_____": "Área Rural de São Francisco Xavier",
+            "cep_1": "12249899",
+            "cep_2": "12249899"
+        },
+        {
+            "bairro_via_cep_1": "Área Rural de São José dos Campos",
+            "bairro_via_cep_2": "Área Rural de São José dos Campos",
+            "bairro_site_____": "Área Rural de São José dos Campos",
+            "cep_1": "12248899",
+            "cep_2": "12248899"
+        },
+        {
+            "bairro_via_cep_1": "Bairro da Pernambucana",
+            "bairro_via_cep_2": "Bairro da Pernambucana",
+            "bairro_site_____": "Bairro da Pernambucana",
+            "cep_1": "12228471",
+            "cep_2": "12228845"
+        },
+        {
+            "bairro_via_cep_1": "Bom Retiro",
+            "bairro_via_cep_2": "Bom Retiro",
+            "bairro_site_____": "Bom Retiro",
+            "cep_1": "12226202",
+            "cep_2": "12226300"
+        },
+        {
+            "bairro_via_cep_1": "Bosque dos Eucaliptos",
+            "bairro_via_cep_2": "Bosque dos Eucaliptos",
+            "bairro_site_____": "Bosque dos Eucaliptos",
+            "cep_1": "12232086",
+            "cep_2": "12233900"
+        },
+        {
+            "bairro_via_cep_1": "Buquirinha",
+            "bairro_via_cep_2": "Buquirinha",
+            "bairro_site_____": "Buquirinha",
+            "cep_1": "12213730",
+            "cep_2": "12213843"
+        },
+        {
+            "bairro_via_cep_1": "Buquirinha II",
+            "bairro_via_cep_2": "Buquirinha II",
+            "bairro_site_____": "Buquirinha II",
+            "cep_1": "12214560",
+            "cep_2": "12214602"
+        },
+        {
+            "bairro_via_cep_1": "Cajuru",
+            "bairro_via_cep_2": "Cajuru",
+            "bairro_site_____": "Cajuru",
+            "cep_1": "12226770",
+            "cep_2": "12226789"
+        },
+        {
+            "bairro_via_cep_1": "Campo dos Alemães",
+            "bairro_via_cep_2": "Campo dos Alemães",
+            "bairro_site_____": "Campo dos Alemães",
+            "cep_1": "12239060",
+            "cep_2": "12239832"
+        },
+        {
+            "bairro_via_cep_1": "Campos de São José",
+            "bairro_via_cep_2": "Campos de São José",
+            "bairro_site_____": "Campos de São José",
+            "cep_1": "12226310",
+            "cep_2": "12226721"
+        },
+        {
+            "bairro_via_cep_1": "Campus do CTA",
+            "bairro_via_cep_2": "Campus do CTA",
+            "bairro_site_____": "Campus do CTA",
+            "cep_1": "12228460",
+            "cep_2": "12228904"
+        },
+        {
+            "bairro_via_cep_1": "Capão Grosso II-C",
+            "bairro_via_cep_2": "Capão Grosso II-C",
+            "bairro_site_____": "Capão Grosso II-C",
+            "cep_1": "12226302",
+            "cep_2": "12226303"
+        },
+        {
+            "bairro_via_cep_1": "Capão Grosso II-D",
+            "bairro_via_cep_2": "Capão Grosso II-D",
+            "bairro_site_____": "Capão Grosso II-D",
+            "cep_1": "12226321",
+            "cep_2": "12226322"
+        },
+        {
+            "bairro_via_cep_1": "Capuava",
+            "bairro_via_cep_2": "Capuava",
+            "bairro_site_____": "Capuava",
+            "cep_1": "12229850",
+            "cep_2": "12229850"
+        },
+        {
+            "bairro_via_cep_1": "Centro",
+            "bairro_via_cep_2": "Centro",
+            "bairro_site_____": "Centro",
+            "cep_1": "12209520",
+            "cep_2": "12249970"
+        },
+        {
+            "bairro_via_cep_1": "Chácara dos Coqueiros",
+            "bairro_via_cep_2": "Chácara dos Coqueiros",
+            "bairro_site_____": "Chácara dos Coqueiros",
+            "cep_1": "12248687",
+            "cep_2": "12248698"
+        },
+        {
+            "bairro_via_cep_1": "Chácara dos Eucalíptos",
+            "bairro_via_cep_2": "Chácara dos Eucalíptos",
+            "bairro_site_____": "Chácara dos Eucalíptos",
+            "cep_1": "12221740",
+            "cep_2": "12221760"
+        },
+        {
+            "bairro_via_cep_1": "Chácara São Sebastião",
+            "bairro_via_cep_2": "Chácara São Sebastião",
+            "bairro_site_____": "Chácara São Sebastião",
+            "cep_1": "12221291",
+            "cep_2": "12221291"
+        },
+        {
+            "bairro_via_cep_1": "Chácaras Araújo I",
+            "bairro_via_cep_2": "Chácaras Araújo I",
+            "bairro_site_____": "Chácaras Araújo I",
+            "cep_1": "12225122",
+            "cep_2": "12225152"
+        },
+        {
+            "bairro_via_cep_1": "Chácaras Araújo II",
+            "bairro_via_cep_2": "Chácaras Araújo II",
+            "bairro_site_____": "Chácaras Araújo II",
+            "cep_1": "12225121",
+            "cep_2": "12225143"
+        },
+        {
+            "bairro_via_cep_1": "Chácaras Boa Esperança",
+            "bairro_via_cep_2": "Chácaras Boa Esperança",
+            "bairro_site_____": "Chácaras Boa Esperança",
+            "cep_1": "12226161",
+            "cep_2": "12226301"
+        },
+        {
+            "bairro_via_cep_1": "Chácaras Oliveiras",
+            "bairro_via_cep_2": "Chácaras Oliveiras",
+            "bairro_site_____": "Chácaras Oliveiras",
+            "cep_1": "12213271",
+            "cep_2": "12213276"
+        },
+        {
+            "bairro_via_cep_1": "Chácaras Pousada do Vale",
+            "bairro_via_cep_2": "Chácaras Pousada do Vale",
+            "bairro_site_____": "Chácaras Pousada do Vale",
+            "cep_1": "12226722",
+            "cep_2": "12226766"
+        },
+        {
+            "bairro_via_cep_1": "Chácaras Reunidas",
+            "bairro_via_cep_2": "Chácaras Reunidas",
+            "bairro_site_____": "Chácaras Reunidas",
+            "cep_1": "12238270",
+            "cep_2": "12238970"
+        },
+        {
+            "bairro_via_cep_1": "Chácaras São José",
+            "bairro_via_cep_2": "Chácaras São José",
+            "bairro_site_____": "Chácaras São José",
+            "cep_1": "12227550",
+            "cep_2": "12227570"
+        },
+        {
+            "bairro_via_cep_1": "Cidade Morumbi",
+            "bairro_via_cep_2": "Cidade Morumbi",
+            "bairro_site_____": "Cidade Morumbi",
+            "cep_1": "12236420",
+            "cep_2": "12236830"
+        },
+        {
+            "bairro_via_cep_1": "Cidade Vista Verde",
+            "bairro_via_cep_2": "Cidade Vista Verde",
+            "bairro_site_____": "Cidade Vista Verde",
+            "cep_1": "12223000",
+            "cep_2": "12223846"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Bosque Imperial",
+            "bairro_via_cep_2": "Condomínio Bosque Imperial",
+            "bairro_site_____": "Condomínio Bosque Imperial",
+            "cep_1": "12242040",
+            "cep_2": "12242044"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Centro Empresarial Taquari",
+            "bairro_via_cep_2": "Condomínio Centro Empresarial Taquari",
+            "bairro_site_____": "Condomínio Centro Empresarial Taquari",
+            "cep_1": "12246858",
+            "cep_2": "12246864"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Chácara dos Eucaliptos",
+            "bairro_via_cep_2": "Condomínio Chácara dos Eucaliptos",
+            "bairro_site_____": "Condomínio Chácara dos Eucaliptos",
+            "cep_1": "12244081",
+            "cep_2": "12244085"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Chácara Serimbura",
+            "bairro_via_cep_2": "Condomínio Chácara Serimbura",
+            "bairro_site_____": "Condomínio Chácara Serimbura",
+            "cep_1": "12244002",
+            "cep_2": "12244014"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Colinas do Parahyba",
+            "bairro_via_cep_2": "Condomínio Colinas do Parahyba",
+            "bairro_site_____": "Condomínio Colinas do Parahyba",
+            "cep_1": "12213547",
+            "cep_2": "12213625"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Espelho D'água",
+            "bairro_via_cep_2": "Condomínio Espelho D'água",
+            "bairro_site_____": "Condomínio Espelho Dágua",
+            "cep_1": "12213532",
+            "cep_2": "12213545"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Esplanada do Sol",
+            "bairro_via_cep_2": "Condomínio Esplanada do Sol",
+            "bairro_site_____": "Condomínio Esplanada do Sol",
+            "cep_1": "12244630",
+            "cep_2": "12244841"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Loteamento Reserva da Barra",
+            "bairro_via_cep_2": "Condomínio Loteamento Reserva da Barra",
+            "bairro_site_____": "Condomínio Loteamento Reserva da Barra",
+            "cep_1": "12242251",
+            "cep_2": "12242253"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Loteamento Reserva das Figueiras",
+            "bairro_via_cep_2": "Condomínio Loteamento Reserva das Figueiras",
+            "bairro_site_____": "Condomínio Loteamento Reserva das Figueiras",
+            "cep_1": "12242332",
+            "cep_2": "12242333"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Quinta das Flores",
+            "bairro_via_cep_2": "Condomínio Quinta das Flores",
+            "bairro_site_____": "Condomínio Quinta das Flores",
+            "cep_1": "12232261",
+            "cep_2": "12232272"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Recanto da Baronesa",
+            "bairro_via_cep_2": "Condomínio Recanto da Baronesa",
+            "bairro_site_____": "Condomínio Recanto da Baronesa",
+            "cep_1": "12232311",
+            "cep_2": "12232319"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Reserva do Paratehy",
+            "bairro_via_cep_2": "Condomínio Reserva do Paratehy",
+            "bairro_site_____": "Condomínio Reserva do Paratehy",
+            "cep_1": "12244541",
+            "cep_2": "12244566"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Alphaville I",
+            "bairro_via_cep_2": "Condomínio Residencial Alphaville I",
+            "bairro_site_____": "Condomínio Residencial Alphaville I",
+            "cep_1": "12244048",
+            "cep_2": "12244079"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Alphaville II",
+            "bairro_via_cep_2": "Condomínio Residencial Alphaville II",
+            "bairro_site_____": "Condomínio Residencial Alphaville II",
+            "cep_1": "12244034",
+            "cep_2": "12244072"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Altos da Quinta",
+            "bairro_via_cep_2": "Condomínio Residencial Altos da Quinta",
+            "bairro_site_____": "Condomínio Residencial Altos da Quinta",
+            "cep_1": "12229012",
+            "cep_2": "12229015"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Bell Park",
+            "bairro_via_cep_2": "Condomínio Residencial Bell Park",
+            "bairro_site_____": "Condomínio Residencial Bell Park",
+            "cep_1": "12227803",
+            "cep_2": "12227809"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Campo Belo",
+            "bairro_via_cep_2": "Condomínio Residencial Campo Belo",
+            "bairro_site_____": "Condomínio Residencial Campo Belo",
+            "cep_1": "12224850",
+            "cep_2": "12224854"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Colinas do Paratehy",
+            "bairro_via_cep_2": "Condomínio Residencial Colinas do Paratehy",
+            "bairro_site_____": "Condomínio Residencial Colinas do Paratehy",
+            "cep_1": "12244091",
+            "cep_2": "12244194"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Floresta",
+            "bairro_via_cep_2": "Condomínio Residencial Floresta",
+            "bairro_site_____": "Condomínio Residencial Floresta",
+            "cep_1": "12223840",
+            "cep_2": "12223844"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Jaguari - Área 5",
+            "bairro_via_cep_2": "Condomínio Residencial Jaguari - Área 5",
+            "bairro_site_____": "Condomínio Residencial Jaguari - Área 5",
+            "cep_1": "12214011",
+            "cep_2": "12214012"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Jaguary",
+            "bairro_via_cep_2": "Condomínio Residencial Jaguary",
+            "bairro_site_____": "Condomínio Residencial Jaguary",
+            "cep_1": "12244620",
+            "cep_2": "12244899"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Jardins",
+            "bairro_via_cep_2": "Condomínio Residencial Jardins",
+            "bairro_site_____": "Condomínio Residencial Jardins",
+            "cep_1": "12231811",
+            "cep_2": "12231817"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Mantiqueira",
+            "bairro_via_cep_2": "Condomínio Residencial Mantiqueira",
+            "bairro_site_____": "Condomínio Residencial Mantiqueira",
+            "cep_1": "12213641",
+            "cep_2": "12213661"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Monaco",
+            "bairro_via_cep_2": "Condomínio Residencial Monaco",
+            "bairro_site_____": "Condomínio Residencial Monaco",
+            "cep_1": "12244096",
+            "cep_2": "12244146"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Mont Blanc",
+            "bairro_via_cep_2": "Condomínio Residencial Mont Blanc",
+            "bairro_site_____": "Condomínio Residencial Mont Blanc",
+            "cep_1": "12244095",
+            "cep_2": "12244162"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Monte Carlo",
+            "bairro_via_cep_2": "Condomínio Residencial Monte Carlo",
+            "bairro_site_____": "Condomínio Residencial Monte Carlo",
+            "cep_1": "12244093",
+            "cep_2": "12244188"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Montserrat",
+            "bairro_via_cep_2": "Condomínio Residencial Montserrat",
+            "bairro_site_____": "Condomínio Residencial Montserrat",
+            "cep_1": "12244023",
+            "cep_2": "12244131"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Residencial Terra Nova",
+            "bairro_via_cep_2": "Condomínio Residencial Terra Nova",
+            "bairro_site_____": "Condomínio Residencial Terra Nova",
+            "cep_1": "12247761",
+            "cep_2": "12247789"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Royal Park",
+            "bairro_via_cep_2": "Condomínio Royal Park",
+            "bairro_site_____": "Condomínio Royal Park",
+            "cep_1": "12246871",
+            "cep_2": "12246878"
+        },
+        {
+            "bairro_via_cep_1": "Condominio Spazio Campo Azuli",
+            "bairro_via_cep_2": "Condominio Spazio Campo Azuli",
+            "bairro_site_____": "Condominio Spazio Campo Azuli",
+            "cep_1": "12235431",
+            "cep_2": "12235431"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Sunset Park",
+            "bairro_via_cep_2": "Condomínio Sunset Park",
+            "bairro_site_____": "Condomínio Sunset Park",
+            "cep_1": "12246003",
+            "cep_2": "12246009"
+        },
+        {
+            "bairro_via_cep_1": "Condomínio Villagio Fazendão",
+            "bairro_via_cep_2": "Condomínio Villagio Fazendão",
+            "bairro_site_____": "Condomínio Villagio Fazendão",
+            "cep_1": "12214421",
+            "cep_2": "12214429"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Habitacional Santa Luzia",
+            "bairro_via_cep_2": "Conjunto Habitacional Santa Luzia",
+            "bairro_site_____": "Conjunto Habitacional Santa Luzia",
+            "cep_1": "12228241",
+            "cep_2": "12228243"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Habitacional São José dos Campos A",
+            "bairro_via_cep_2": "Conjunto Habitacional São José dos Campos A",
+            "bairro_site_____": "Conjunto Habitacional São José dos Campos A",
+            "cep_1": "12228259",
+            "cep_2": "12228459"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Papa João Paulo II",
+            "bairro_via_cep_2": "Conjunto Papa João Paulo II",
+            "bairro_site_____": "Conjunto Papa João Paulo II",
+            "cep_1": "12232411",
+            "cep_2": "12232427"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Residencial Dom Pedro I",
+            "bairro_via_cep_2": "Conjunto Residencial Dom Pedro I",
+            "bairro_site_____": "Conjunto Residencial Dom Pedro I",
+            "cep_1": "12232440",
+            "cep_2": "12232842"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Residencial Dom Pedro II",
+            "bairro_via_cep_2": "Conjunto Residencial Dom Pedro II",
+            "bairro_site_____": "Conjunto Residencial Dom Pedro II",
+            "cep_1": "12232845",
+            "cep_2": "12232899"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Residencial Elmano Veloso",
+            "bairro_via_cep_2": "Conjunto Residencial Elmano Veloso",
+            "bairro_site_____": "Conjunto Residencial Elmano Veloso",
+            "cep_1": "12234480",
+            "cep_2": "12234740"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Residencial Galo Branco",
+            "bairro_via_cep_2": "Conjunto Residencial Galo Branco",
+            "bairro_site_____": "Conjunto Residencial Galo Branco",
+            "cep_1": "12247410",
+            "cep_2": "12247611"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Residencial Intervale",
+            "bairro_via_cep_2": "Conjunto Residencial Intervale",
+            "bairro_site_____": "Conjunto Residencial Intervale",
+            "cep_1": "12220111",
+            "cep_2": "12220116"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Residencial Nosso Teto",
+            "bairro_via_cep_2": "Conjunto Residencial Nosso Teto",
+            "bairro_site_____": "Conjunto Residencial Nosso Teto",
+            "cep_1": "12228252",
+            "cep_2": "12228257"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Residencial Trinta e Um de Março",
+            "bairro_via_cep_2": "Conjunto Residencial Trinta e Um de Março",
+            "bairro_site_____": "Conjunto Residencial Trinta e Um de Março",
+            "cep_1": "12237000",
+            "cep_2": "12237820"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Residencial Vale dos Pinheiros",
+            "bairro_via_cep_2": "Conjunto Residencial Vale dos Pinheiros",
+            "bairro_site_____": "Conjunto Residencial Vale dos Pinheiros",
+            "cep_1": "12242330",
+            "cep_2": "12242400"
+        },
+        {
+            "bairro_via_cep_1": "Conjunto Residencial Vila Leila",
+            "bairro_via_cep_2": "Conjunto Residencial Vila Leila",
+            "bairro_site_____": "Conjunto Residencial Vila Leila",
+            "cep_1": "12212475",
+            "cep_2": "12212570"
+        },
+        {
+            "bairro_via_cep_1": "Costinha",
+            "bairro_via_cep_2": "Costinha",
+            "bairro_site_____": "Costinha",
+            "cep_1": "12214460",
+            "cep_2": "12214611"
+        },
+        {
+            "bairro_via_cep_1": "Eldorado",
+            "bairro_via_cep_2": "Eldorado",
+            "bairro_site_____": "Eldorado",
+            "cep_1": "12238565",
+            "cep_2": "12238580"
+        },
+        {
+            "bairro_via_cep_1": "Eugênio de Mello",
+            "bairro_via_cep_2": "Eugênio de Mello",
+            "bairro_site_____": "Eugênio de Mello",
+            "cep_1": "12247000",
+            "cep_2": "12247970"
+        },
+        {
+            "bairro_via_cep_1": "Floradas de São José",
+            "bairro_via_cep_2": "Floradas de São José",
+            "bairro_site_____": "Floradas de São José",
+            "cep_1": "12230081",
+            "cep_2": "12230091"
+        },
+        {
+            "bairro_via_cep_1": "Freitas",
+            "bairro_via_cep_2": "Freitas",
+            "bairro_site_____": "Freitas",
+            "cep_1": "12214420",
+            "cep_2": "12214467"
+        },
+        {
+            "bairro_via_cep_1": "Jaguari",
+            "bairro_via_cep_2": "Jaguari",
+            "bairro_site_____": "Jaguari",
+            "cep_1": "12213031",
+            "cep_2": "12213031"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Aeroporto",
+            "bairro_via_cep_2": "Jardim Aeroporto",
+            "bairro_site_____": "Jardim Aeroporto",
+            "cep_1": "12231140",
+            "cep_2": "12231301"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Allah",
+            "bairro_via_cep_2": "Jardim Allah",
+            "bairro_site_____": "Jardim Allah",
+            "cep_1": "12226311",
+            "cep_2": "12226845"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Altos de Santana",
+            "bairro_via_cep_2": "Vila Unidos",
+            "bairro_site_____": "Jardim Altos de Santana",
+            "cep_1": "12214000",
+            "cep_2": "12214900"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Alvorada",
+            "bairro_via_cep_2": "Jardim Alvorada",
+            "bairro_site_____": "Jardim Alvorada",
+            "cep_1": "12240510",
+            "cep_2": "12240904"
+        },
+        {
+            "bairro_via_cep_1": "Jardim América",
+            "bairro_via_cep_2": "Jardim América",
+            "bairro_site_____": "Jardim América",
+            "cep_1": "12235000",
+            "cep_2": "12235900"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Americano",
+            "bairro_via_cep_2": "Jardim Americano",
+            "bairro_site_____": "Jardim Americano",
+            "cep_1": "12225011",
+            "cep_2": "12225110"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Anhembi",
+            "bairro_via_cep_2": "Jardim Anhembi",
+            "bairro_site_____": "Jardim Anhembi",
+            "cep_1": "12235210",
+            "cep_2": "12235310"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Aparecida",
+            "bairro_via_cep_2": "Jardim Aparecida",
+            "bairro_site_____": "Jardim Aparecida",
+            "cep_1": "12245040",
+            "cep_2": "12245381"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Apolo",
+            "bairro_via_cep_2": "Jardim Apolo",
+            "bairro_site_____": "Jardim Apolo",
+            "cep_1": "12243900",
+            "cep_2": "12243901"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Apolo I",
+            "bairro_via_cep_2": "Jardim Apolo I",
+            "bairro_site_____": "Jardim Apolo I",
+            "cep_1": "12243000",
+            "cep_2": "12243240"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Apolo II",
+            "bairro_via_cep_2": "Jardim Apolo II",
+            "bairro_site_____": "Jardim Apolo II",
+            "cep_1": "12243090",
+            "cep_2": "12243111"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Aquárius",
+            "bairro_via_cep_2": "Jardim Aquárius",
+            "bairro_site_____": "Jardim Aquárius",
+            "cep_1": "12242020",
+            "cep_2": "12242902"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Augusta",
+            "bairro_via_cep_2": "Jardim Augusta",
+            "bairro_site_____": "Jardim Augusta",
+            "cep_1": "12216510",
+            "cep_2": "12216780"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Azaléias",
+            "bairro_via_cep_2": "Jardim Azaléias",
+            "bairro_site_____": "Jardim Azaléias",
+            "cep_1": "12235671",
+            "cep_2": "12235673"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Beira Rio",
+            "bairro_via_cep_2": "Jardim Beira Rio",
+            "bairro_site_____": "Jardim Beira Rio",
+            "cep_1": "12212453",
+            "cep_2": "12212455"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Bela Vista",
+            "bairro_via_cep_2": "Jardim Bela Vista",
+            "bairro_site_____": "Jardim Bela Vista",
+            "cep_1": "12209000",
+            "cep_2": "12209903"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Boa Vista",
+            "bairro_via_cep_2": "Jardim Boa Vista",
+            "bairro_site_____": "Jardim Boa Vista",
+            "cep_1": "12213630",
+            "cep_2": "12213720"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Brasília",
+            "bairro_via_cep_2": "Jardim Brasília",
+            "bairro_site_____": "Jardim Brasília",
+            "cep_1": "12221260",
+            "cep_2": "12221260"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Capitingal",
+            "bairro_via_cep_2": "Jardim Capitingal",
+            "bairro_site_____": "Jardim Capitingal",
+            "cep_1": "12236840",
+            "cep_2": "12236840"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Castanheira",
+            "bairro_via_cep_2": "Jardim Castanheira",
+            "bairro_site_____": "Jardim Castanheira",
+            "cep_1": "12225270",
+            "cep_2": "12225370"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Colonial",
+            "bairro_via_cep_2": "Jardim Colonial",
+            "bairro_site_____": "Jardim Colonial",
+            "cep_1": "12234001",
+            "cep_2": "12234470"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Colorado",
+            "bairro_via_cep_2": "Jardim Colorado",
+            "bairro_site_____": "Jardim Colorado",
+            "cep_1": "12227730",
+            "cep_2": "12227771"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Copacabana",
+            "bairro_via_cep_2": "Jardim Copacabana",
+            "bairro_site_____": "Jardim Copacabana",
+            "cep_1": "12221150",
+            "cep_2": "12221240"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Cruzeiro do Sul",
+            "bairro_via_cep_2": "Jardim Cruzeiro do Sul",
+            "bairro_site_____": "Jardim Cruzeiro do Sul",
+            "cep_1": "12234801",
+            "cep_2": "12234818"
+        },
+        {
+            "bairro_via_cep_1": "Jardim da Granja",
+            "bairro_via_cep_2": "Jardim da Granja",
+            "bairro_site_____": "Jardim da Granja",
+            "cep_1": "12227001",
+            "cep_2": "12227900"
+        },
+        {
+            "bairro_via_cep_1": "Jardim das Cerejeiras",
+            "bairro_via_cep_2": "Jardim das Cerejeiras",
+            "bairro_site_____": "Jardim das Cerejeiras",
+            "cep_1": "12225399",
+            "cep_2": "12225591"
+        },
+        {
+            "bairro_via_cep_1": "Jardim das Colinas",
+            "bairro_via_cep_2": "Jardim das Colinas",
+            "bairro_site_____": "Jardim das Colinas",
+            "cep_1": "12242000",
+            "cep_2": "12242260"
+        },
+        {
+            "bairro_via_cep_1": "Jardim das Flores",
+            "bairro_via_cep_2": "Jardim das Flores",
+            "bairro_site_____": "Jardim das Flores",
+            "cep_1": "12247620",
+            "cep_2": "12247780"
+        },
+        {
+            "bairro_via_cep_1": "Jardim das Indústrias",
+            "bairro_via_cep_2": "Jardim das Indústrias",
+            "bairro_site_____": "Jardim das Indústrias",
+            "cep_1": "12240000",
+            "cep_2": "12241270"
+        },
+        {
+            "bairro_via_cep_1": "Jardim das Paineiras I",
+            "bairro_via_cep_2": "Jardim das Paineiras I",
+            "bairro_site_____": "Jardim das Paineiras I",
+            "cep_1": "12226083",
+            "cep_2": "12226095"
+        },
+        {
+            "bairro_via_cep_1": "Jardim das Paineiras II",
+            "bairro_via_cep_2": "Jardim das Paineiras II",
+            "bairro_site_____": "Jardim das Paineiras II",
+            "cep_1": "12226001",
+            "cep_2": "12226114"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Del Rey",
+            "bairro_via_cep_2": "Jardim Del Rey",
+            "bairro_site_____": "Jardim Del Rey",
+            "cep_1": "12232231",
+            "cep_2": "12232239"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Diamante",
+            "bairro_via_cep_2": "Jardim Diamante",
+            "bairro_site_____": "Jardim Diamante",
+            "cep_1": "12223110",
+            "cep_2": "12223211"
+        },
+        {
+            "bairro_via_cep_1": "Jardim do Céu",
+            "bairro_via_cep_2": "Jardim do Céu",
+            "bairro_site_____": "Jardim do Céu",
+            "cep_1": "12236290",
+            "cep_2": "12236381"
+        },
+        {
+            "bairro_via_cep_1": "Jardim do Golfe",
+            "bairro_via_cep_2": "Jardim do Golfe",
+            "bairro_site_____": "Jardim do Golfe",
+            "cep_1": "12244631",
+            "cep_2": "12244678"
+        },
+        {
+            "bairro_via_cep_1": "Jardim do Lago",
+            "bairro_via_cep_2": "Jardim do Lago",
+            "bairro_site_____": "Jardim do Lago",
+            "cep_1": "12228020",
+            "cep_2": "12228070"
+        },
+        {
+            "bairro_via_cep_1": "Jardim dos Bandeirantes",
+            "bairro_via_cep_2": "Jardim dos Bandeirantes",
+            "bairro_site_____": "Jardim dos Bandeirantes",
+            "cep_1": "12234785",
+            "cep_2": "12234799"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Ebenézer",
+            "bairro_via_cep_2": "Jardim Ebenézer",
+            "bairro_site_____": "Jardim Ebenézer",
+            "cep_1": "12226199",
+            "cep_2": "12226203"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Esplanada",
+            "bairro_via_cep_2": "Jardim Esplanada",
+            "bairro_site_____": "Jardim Esplanada",
+            "cep_1": "12242310",
+            "cep_2": "12242905"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Esplanada II",
+            "bairro_via_cep_2": "Jardim Esplanada II",
+            "bairro_site_____": "Jardim Esplanada II",
+            "cep_1": "12242630",
+            "cep_2": "12242840"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Estoril",
+            "bairro_via_cep_2": "Jardim Estoril",
+            "bairro_site_____": "Jardim Estoril",
+            "cep_1": "12232010",
+            "cep_2": "12232080"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Fátima",
+            "bairro_via_cep_2": "Jardim Fátima",
+            "bairro_site_____": "Jardim Fátima",
+            "cep_1": "12243380",
+            "cep_2": "12243520"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Guimarães",
+            "bairro_via_cep_2": "Jardim Guimarães",
+            "bairro_site_____": "Jardim Guimarães",
+            "cep_1": "12213130",
+            "cep_2": "12213200"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Imperial",
+            "bairro_via_cep_2": "Jardim Imperial",
+            "bairro_site_____": "Jardim Imperial",
+            "cep_1": "12234000",
+            "cep_2": "12234471"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Ismênia",
+            "bairro_via_cep_2": "Jardim Ismênia",
+            "bairro_site_____": "Jardim Ismênia",
+            "cep_1": "12220660",
+            "cep_2": "12221143"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Itapoã",
+            "bairro_via_cep_2": "Jardim Itapoã",
+            "bairro_site_____": "Jardim Itapoã",
+            "cep_1": "12247290",
+            "cep_2": "12247400"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Juliana",
+            "bairro_via_cep_2": "Jardim Juliana",
+            "bairro_site_____": "Jardim Juliana",
+            "cep_1": "12236841",
+            "cep_2": "12239870"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Limoeiro",
+            "bairro_via_cep_2": "Jardim Limoeiro",
+            "bairro_site_____": "Jardim Limoeiro",
+            "cep_1": "12241280",
+            "cep_2": "12241902"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Madureira",
+            "bairro_via_cep_2": "Jardim Madureira",
+            "bairro_site_____": "Jardim Madureira",
+            "cep_1": "12232280",
+            "cep_2": "12232300"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Majestic",
+            "bairro_via_cep_2": "Jardim Majestic",
+            "bairro_site_____": "Jardim Majestic",
+            "cep_1": "12225415",
+            "cep_2": "12226277"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Maracanã",
+            "bairro_via_cep_2": "Jardim Maracanã",
+            "bairro_site_____": "Jardim Maracanã",
+            "cep_1": "12221510",
+            "cep_2": "12221512"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Margareth",
+            "bairro_via_cep_2": "Jardim Margareth",
+            "bairro_site_____": "Jardim Margareth",
+            "cep_1": "12243530",
+            "cep_2": "12243563"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Mariana I",
+            "bairro_via_cep_2": "Jardim Mariana I",
+            "bairro_site_____": "Jardim Mariana I",
+            "cep_1": "12226850",
+            "cep_2": "12226868"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Mariana II",
+            "bairro_via_cep_2": "Jardim Mariana II",
+            "bairro_site_____": "Jardim Mariana II",
+            "cep_1": "12226870",
+            "cep_2": "12226888"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Maringá",
+            "bairro_via_cep_2": "Jardim Maringá",
+            "bairro_site_____": "Jardim Maringá",
+            "cep_1": "12243570",
+            "cep_2": "12245534"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Maritéia",
+            "bairro_via_cep_2": "Jardim Maritéia",
+            "bairro_site_____": "Jardim Maritéia",
+            "cep_1": "12212440",
+            "cep_2": "12212470"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Mesquita",
+            "bairro_via_cep_2": "Jardim Mesquita",
+            "bairro_site_____": "Jardim Mesquita",
+            "cep_1": "12229004",
+            "cep_2": "12229500"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Minas Gerais",
+            "bairro_via_cep_2": "Jardim Minas Gerais",
+            "bairro_site_____": "Jardim Minas Gerais",
+            "cep_1": "12213251",
+            "cep_2": "12213268"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Motorama",
+            "bairro_via_cep_2": "Jardim Motorama",
+            "bairro_site_____": "Jardim Motorama",
+            "cep_1": "12223900",
+            "cep_2": "12224300"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Nova América",
+            "bairro_via_cep_2": "Jardim Nova América",
+            "bairro_site_____": "Jardim Nova América",
+            "cep_1": "12242270",
+            "cep_2": "12242670"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Nova Detroit",
+            "bairro_via_cep_2": "Jardim Nova Detroit",
+            "bairro_site_____": "Jardim Nova Detroit",
+            "cep_1": "12224480",
+            "cep_2": "12224702"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Nova Esperança (Banhado)",
+            "bairro_via_cep_2": "Jardim Nova Esperança (Banhado)",
+            "bairro_site_____": "Jardim Nova Esperança ",
+            "cep_1": "12245522",
+            "cep_2": "12245522"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Nova Flórida",
+            "bairro_via_cep_2": "Jardim Nova Flórida",
+            "bairro_site_____": "Jardim Nova Flórida",
+            "cep_1": "12225055",
+            "cep_2": "12225097"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Nova Michigan",
+            "bairro_via_cep_2": "Jardim Nova Michigan",
+            "bairro_site_____": "Jardim Nova Michigan",
+            "cep_1": "12225400",
+            "cep_2": "12225470"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Nova Michigan II",
+            "bairro_via_cep_2": "Jardim Nova Michigan II",
+            "bairro_site_____": "Jardim Nova Michigan II",
+            "cep_1": "12225422",
+            "cep_2": "12225426"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Nova República",
+            "bairro_via_cep_2": "Jardim Nova República",
+            "bairro_site_____": "Jardim Nova República",
+            "cep_1": "12234850",
+            "cep_2": "12234896"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Olímpia",
+            "bairro_via_cep_2": "Jardim Olímpia",
+            "bairro_site_____": "Jardim Olímpia",
+            "cep_1": "12221250",
+            "cep_2": "12221290"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Oriente",
+            "bairro_via_cep_2": "Jardim Oriente",
+            "bairro_site_____": "Jardim Oriente",
+            "cep_1": "12236000",
+            "cep_2": "12236900"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Oswaldo Cruz",
+            "bairro_via_cep_2": "Jardim Oswaldo Cruz",
+            "bairro_site_____": "Jardim Oswaldo Cruz",
+            "cep_1": "12216530",
+            "cep_2": "12216740"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Ouro Preto",
+            "bairro_via_cep_2": "Jardim Ouro Preto",
+            "bairro_site_____": "Jardim Ouro Preto",
+            "cep_1": "12211470",
+            "cep_2": "12211470"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Paraíso",
+            "bairro_via_cep_2": "Jardim Paraíso",
+            "bairro_site_____": "Jardim Paraíso",
+            "cep_1": "12235410",
+            "cep_2": "12235501"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Paraíso do Sol",
+            "bairro_via_cep_2": "Jardim Paraíso do Sol",
+            "bairro_site_____": "Jardim Paraíso do Sol",
+            "cep_1": "12225120",
+            "cep_2": "12225390"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Pararangaba",
+            "bairro_via_cep_2": "Jardim Pararangaba",
+            "bairro_site_____": "Jardim Pararangaba",
+            "cep_1": "12224710",
+            "cep_2": "12224810"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Paulista",
+            "bairro_via_cep_2": "Jardim Paulista",
+            "bairro_site_____": "Jardim Paulista",
+            "cep_1": "12215650",
+            "cep_2": "12216971"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Petrópolis",
+            "bairro_via_cep_2": "Jardim Petrópolis",
+            "bairro_site_____": "Jardim Petrópolis",
+            "cep_1": "12237400",
+            "cep_2": "12237540"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Portugal",
+            "bairro_via_cep_2": "Jardim Portugal",
+            "bairro_site_____": "Jardim Portugal",
+            "cep_1": "12232000",
+            "cep_2": "12232310"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Primavera II",
+            "bairro_via_cep_2": "Jardim Primavera II",
+            "bairro_site_____": "Jardim Primavera II",
+            "cep_1": "12226260",
+            "cep_2": "12226270"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Renata",
+            "bairro_via_cep_2": "Jardim Renata",
+            "bairro_site_____": "Jardim Renata",
+            "cep_1": "12245110",
+            "cep_2": "12245561"
+        },
+        {
+            "bairro_via_cep_1": "Jardim República",
+            "bairro_via_cep_2": "Jardim República",
+            "bairro_site_____": "Jardim República",
+            "cep_1": "12234825",
+            "cep_2": "12234840"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Rodolfo",
+            "bairro_via_cep_2": "Jardim Rodolfo",
+            "bairro_site_____": "Jardim Rodolfo",
+            "cep_1": "12224830",
+            "cep_2": "12224842"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Rosário",
+            "bairro_via_cep_2": "Jardim Rosário",
+            "bairro_site_____": "Jardim Rosário",
+            "cep_1": "12236270",
+            "cep_2": "12236330"
+        },
+        {
+            "bairro_via_cep_1": "Jardim San Marino",
+            "bairro_via_cep_2": "Jardim San Marino",
+            "bairro_site_____": "Jardim San Marino",
+            "cep_1": "12235831",
+            "cep_2": "12235850"
+        },
+        {
+            "bairro_via_cep_1": "Jardim San Rafael",
+            "bairro_via_cep_2": "Jardim San Rafael",
+            "bairro_site_____": "Jardim San Rafael",
+            "cep_1": "12225592",
+            "cep_2": "12225599"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Cecília I",
+            "bairro_via_cep_2": "Jardim Santa Cecília I",
+            "bairro_site_____": "Jardim Santa Cecília I",
+            "cep_1": "12226651",
+            "cep_2": "12226656"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Hermínia",
+            "bairro_via_cep_2": "Jardim Santa Hermínia",
+            "bairro_site_____": "Jardim Santa Hermínia",
+            "cep_1": "12226801",
+            "cep_2": "12226844"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Inês I",
+            "bairro_via_cep_2": "Jardim Santa Inês I",
+            "bairro_site_____": "Jardim Santa Inês I",
+            "cep_1": "12248200",
+            "cep_2": "12248500"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Inês II",
+            "bairro_via_cep_2": "Jardim Santa Inês II",
+            "bairro_site_____": "Jardim Santa Inês II",
+            "cep_1": "12224795",
+            "cep_2": "12248520"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Inês III",
+            "bairro_via_cep_2": "Jardim Santa Inês III",
+            "bairro_site_____": "Jardim Santa Inês III",
+            "cep_1": "12248254",
+            "cep_2": "12248509"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Júlia",
+            "bairro_via_cep_2": "Jardim Santa Júlia",
+            "bairro_site_____": "Jardim Santa Júlia",
+            "cep_1": "12228271",
+            "cep_2": "12228328"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Luzia",
+            "bairro_via_cep_2": "Jardim Santa Luzia",
+            "bairro_site_____": "Jardim Santa Luzia",
+            "cep_1": "12228004",
+            "cep_2": "12228867"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Madalena",
+            "bairro_via_cep_2": "Jardim Santa Madalena",
+            "bairro_site_____": "Jardim Santa Madalena",
+            "cep_1": "12243270",
+            "cep_2": "12243310"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Maria",
+            "bairro_via_cep_2": "Jardim Santa Maria",
+            "bairro_site_____": "Jardim Santa Maria",
+            "cep_1": "12225171",
+            "cep_2": "12225833"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Maria II",
+            "bairro_via_cep_2": "Jardim Santa Maria II",
+            "bairro_site_____": "Jardim Santa Maria II",
+            "cep_1": "12225161",
+            "cep_2": "12225161"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Maria III",
+            "bairro_via_cep_2": "Jardim Santa Maria III",
+            "bairro_site_____": "Jardim Santa Maria III",
+            "cep_1": "12225374",
+            "cep_2": "12225394"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Maria IV",
+            "bairro_via_cep_2": "Jardim Santa Maria IV",
+            "bairro_site_____": "Jardim Santa Maria IV",
+            "cep_1": "12225271",
+            "cep_2": "12225272"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Matilde",
+            "bairro_via_cep_2": "Jardim Santa Matilde",
+            "bairro_site_____": "Jardim Santa Matilde",
+            "cep_1": "12213570",
+            "cep_2": "12213620"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santa Rosa",
+            "bairro_via_cep_2": "Jardim Santa Rosa",
+            "bairro_site_____": "Jardim Santa Rosa",
+            "cep_1": "12228870",
+            "cep_2": "12228898"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santarém",
+            "bairro_via_cep_2": "Jardim Santarém",
+            "bairro_site_____": "Jardim Santarém",
+            "cep_1": "12212530",
+            "cep_2": "12212550"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Santo Onofre",
+            "bairro_via_cep_2": "Jardim Santo Onofre",
+            "bairro_site_____": "Jardim Santo Onofre",
+            "cep_1": "12228002",
+            "cep_2": "12228077"
+        },
+        {
+            "bairro_via_cep_1": "Jardim São Dimas",
+            "bairro_via_cep_2": "Centro",
+            "bairro_site_____": "Jardim São Dimas",
+            "cep_1": "12245000",
+            "cep_2": "12245915"
+        },
+        {
+            "bairro_via_cep_1": "Jardim São Jorge",
+            "bairro_via_cep_2": "Jardim São Jorge",
+            "bairro_site_____": "Jardim São Jorge",
+            "cep_1": "12221160",
+            "cep_2": "12221501"
+        },
+        {
+            "bairro_via_cep_1": "Jardim São José Centro",
+            "bairro_via_cep_2": "Jardim São José Centro",
+            "bairro_site_____": "Jardim São José Centro",
+            "cep_1": "12215750",
+            "cep_2": "12216350"
+        },
+        {
+            "bairro_via_cep_1": "Jardim São José II",
+            "bairro_via_cep_2": "Jardim São José II",
+            "bairro_site_____": "Jardim São José II",
+            "cep_1": "12248660",
+            "cep_2": "12248686"
+        },
+        {
+            "bairro_via_cep_1": "Jardim São José Leste",
+            "bairro_via_cep_2": "Jardim São José Leste",
+            "bairro_site_____": "Jardim São José Leste",
+            "cep_1": "12248610",
+            "cep_2": "12248646"
+        },
+        {
+            "bairro_via_cep_1": "Jardim São Judas Tadeu",
+            "bairro_via_cep_2": "Jardim São Judas Tadeu",
+            "bairro_site_____": "Jardim São Judas Tadeu",
+            "cep_1": "12228260",
+            "cep_2": "12228451"
+        },
+        {
+            "bairro_via_cep_1": "Jardim São Leopoldo",
+            "bairro_via_cep_2": "Jardim São Leopoldo",
+            "bairro_site_____": "Jardim São Leopoldo",
+            "cep_1": "12228180",
+            "cep_2": "12228250"
+        },
+        {
+            "bairro_via_cep_1": "Jardim São Vicente",
+            "bairro_via_cep_2": "Jardim São Vicente",
+            "bairro_site_____": "Jardim São Vicente",
+            "cep_1": "12224310",
+            "cep_2": "12224470"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Satélite",
+            "bairro_via_cep_2": "Jardim Satélite",
+            "bairro_site_____": "Jardim Satélite",
+            "cep_1": "12230000",
+            "cep_2": "12231901"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Serimbura",
+            "bairro_via_cep_2": "Jardim Serimbura",
+            "bairro_site_____": "Jardim Serimbura",
+            "cep_1": "12242012",
+            "cep_2": "12242014"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Souto",
+            "bairro_via_cep_2": "Jardim Souto",
+            "bairro_site_____": "Jardim Souto",
+            "cep_1": "12227080",
+            "cep_2": "12227170"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Sul",
+            "bairro_via_cep_2": "Jardim Sul",
+            "bairro_site_____": "Jardim Sul",
+            "cep_1": "12236481",
+            "cep_2": "12236495"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Telespark",
+            "bairro_via_cep_2": "Jardim Telespark",
+            "bairro_site_____": "Jardim Telespark",
+            "cep_1": "12212660",
+            "cep_2": "12212810"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Terras do Sul",
+            "bairro_via_cep_2": "Jardim Terras do Sul",
+            "bairro_site_____": "Jardim Terras do Sul",
+            "cep_1": "12236062",
+            "cep_2": "12236075"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Topázio",
+            "bairro_via_cep_2": "Jardim Topázio",
+            "bairro_site_____": "Jardim Topázio",
+            "cep_1": "12216190",
+            "cep_2": "12216490"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Torrão de Ouro",
+            "bairro_via_cep_2": "Jardim Torrão de Ouro",
+            "bairro_site_____": "Jardim Torrão de Ouro",
+            "cep_1": "12229000",
+            "cep_2": "12229835"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Três José",
+            "bairro_via_cep_2": "Jardim Três José",
+            "bairro_site_____": "Jardim Três José",
+            "cep_1": "12225010",
+            "cep_2": "12225030"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Uirá",
+            "bairro_via_cep_2": "Jardim Uirá",
+            "bairro_site_____": "Jardim Uirá",
+            "cep_1": "12227580",
+            "cep_2": "12227802"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Vale do Sol",
+            "bairro_via_cep_2": "Jardim Vale do Sol",
+            "bairro_site_____": "Jardim Vale do Sol",
+            "cep_1": "12238000",
+            "cep_2": "12238250"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Valparaíba",
+            "bairro_via_cep_2": "Jardim Valparaíba",
+            "bairro_site_____": "Jardim Valparaíba",
+            "cep_1": "12221300",
+            "cep_2": "12221840"
+        },
+        {
+            "bairro_via_cep_1": "Jardim Veneza",
+            "bairro_via_cep_2": "Jardim Veneza",
+            "bairro_site_____": "Jardim Veneza",
+            "cep_1": "12237060",
+            "cep_2": "12237093"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Boa Esperança",
+            "bairro_via_cep_2": "Loteamento Boa Esperança",
+            "bairro_site_____": "Loteamento Boa Esperança",
+            "cep_1": "12226121",
+            "cep_2": "12226121"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Boa Esperança I",
+            "bairro_via_cep_2": "Loteamento Boa Esperança I",
+            "bairro_site_____": "Loteamento Boa Esperança I",
+            "cep_1": "12226141",
+            "cep_2": "12226163"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Boa Esperança II",
+            "bairro_via_cep_2": "Loteamento Boa Esperança II",
+            "bairro_site_____": "Loteamento Boa Esperança II",
+            "cep_1": "12226165",
+            "cep_2": "12226165"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Cidade Tecnológica",
+            "bairro_via_cep_2": "Loteamento Cidade Tecnológica",
+            "bairro_site_____": "Loteamento Cidade Tecnológica",
+            "cep_1": "12247283",
+            "cep_2": "12247831"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Conjunto Morada do Sol II",
+            "bairro_via_cep_2": "Loteamento Conjunto Morada do Sol II",
+            "bairro_site_____": "Loteamento Conjunto Morada do Sol II",
+            "cep_1": "12237590",
+            "cep_2": "12237591"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Estância Nova Jersey",
+            "bairro_via_cep_2": "Loteamento Estância Nova Jersey",
+            "bairro_site_____": "Loteamento Estância Nova Jersey",
+            "cep_1": "12226005",
+            "cep_2": "12226005"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Floresta",
+            "bairro_via_cep_2": "Loteamento Floresta",
+            "bairro_site_____": "Loteamento Floresta",
+            "cep_1": "12226351",
+            "cep_2": "12226399"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Jardim Ebenezer II",
+            "bairro_via_cep_2": "Loteamento Jardim Ebenezer II",
+            "bairro_site_____": "Loteamento Jardim Ebenezer II",
+            "cep_1": "12226131",
+            "cep_2": "12226132"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Jardim Helena",
+            "bairro_via_cep_2": "Loteamento Jardim Helena",
+            "bairro_site_____": "Loteamento Jardim Helena",
+            "cep_1": "12226681",
+            "cep_2": "12226697"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Portal Santa Inês",
+            "bairro_via_cep_2": "Loteamento Portal Santa Inês",
+            "bairro_site_____": "Loteamento Portal Santa Inês",
+            "cep_1": "12248654",
+            "cep_2": "12248657"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Residencial Vista Linda",
+            "bairro_via_cep_2": "Loteamento Residencial Vista Linda",
+            "bairro_site_____": "Loteamento Residencial Vista Linda",
+            "cep_1": "12220042",
+            "cep_2": "12220059"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Santa Edwiges",
+            "bairro_via_cep_2": "Loteamento Santa Edwiges",
+            "bairro_site_____": "Loteamento Santa Edwiges",
+            "cep_1": "12234841",
+            "cep_2": "12234847"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Setparque São José dos Campos",
+            "bairro_via_cep_2": "Loteamento Setparque São José dos Campos",
+            "bairro_site_____": "Loteamento Setparque São José dos Campos",
+            "cep_1": "12227171",
+            "cep_2": "12227179"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Terra Brasilis",
+            "bairro_via_cep_2": "Loteamento Terra Brasilis",
+            "bairro_site_____": "Loteamento Terra Brasilis",
+            "cep_1": "12228231",
+            "cep_2": "12228236"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Tom Jobim",
+            "bairro_via_cep_2": "Loteamento Tom Jobim",
+            "bairro_site_____": "Loteamento Tom Jobim",
+            "cep_1": "12228091",
+            "cep_2": "12228094"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Urbanova II",
+            "bairro_via_cep_2": "Loteamento Urbanova II",
+            "bairro_site_____": "Loteamento Urbanova II",
+            "cep_1": "12244392",
+            "cep_2": "12244481"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Verana",
+            "bairro_via_cep_2": "Loteamento Verana",
+            "bairro_site_____": "Loteamento Verana",
+            "cep_1": "12227871",
+            "cep_2": "12227883"
+        },
+        {
+            "bairro_via_cep_1": "Loteamento Vivant Urbanova",
+            "bairro_via_cep_2": "Loteamento Vivant Urbanova",
+            "bairro_site_____": "Loteamento Vivant Urbanova",
+            "cep_1": "12244341",
+            "cep_2": "12244347"
+        },
+        {
+            "bairro_via_cep_1": "Mirante do Buquirinha",
+            "bairro_via_cep_2": "Mirante do Buquirinha",
+            "bairro_site_____": "Mirante do Buquirinha",
+            "cep_1": "12214513",
+            "cep_2": "12214547"
+        },
+        {
+            "bairro_via_cep_1": "Monte Castelo",
+            "bairro_via_cep_2": "Monte Castelo",
+            "bairro_site_____": "Monte Castelo",
+            "cep_1": "12215000",
+            "cep_2": "12215640"
+        },
+        {
+            "bairro_via_cep_1": "Morada do Sol",
+            "bairro_via_cep_2": "Morada do Sol",
+            "bairro_site_____": "Morada do Sol",
+            "cep_1": "12237570",
+            "cep_2": "12237580"
+        },
+        {
+            "bairro_via_cep_1": "Palmeiras de São José",
+            "bairro_via_cep_2": "Palmeiras de São José",
+            "bairro_site_____": "Palmeiras de São José",
+            "cep_1": "12237150",
+            "cep_2": "12237901"
+        },
+        {
+            "bairro_via_cep_1": "Parque dos Ipês",
+            "bairro_via_cep_2": "Parque dos Ipês",
+            "bairro_site_____": "Parque dos Ipês",
+            "cep_1": "12236856",
+            "cep_2": "12236865"
+        },
+        {
+            "bairro_via_cep_1": "Parque Independencia",
+            "bairro_via_cep_2": "Parque Independencia",
+            "bairro_site_____": "Parque Independencia",
+            "cep_1": "12237600",
+            "cep_2": "12237630"
+        },
+        {
+            "bairro_via_cep_1": "Parque Industrial",
+            "bairro_via_cep_2": "Parque Industrial",
+            "bairro_site_____": "Parque Industrial",
+            "cep_1": "12235510",
+            "cep_2": "12237974"
+        },
+        {
+            "bairro_via_cep_1": "Parque Interlagos",
+            "bairro_via_cep_2": "Parque Interlagos",
+            "bairro_site_____": "Parque Interlagos",
+            "cep_1": "12229011",
+            "cep_2": "12229832"
+        },
+        {
+            "bairro_via_cep_1": "Parque Martim Cererê",
+            "bairro_via_cep_2": "Parque Martim Cererê",
+            "bairro_site_____": "Parque Martim Cererê",
+            "cep_1": "12227000",
+            "cep_2": "12227773"
+        },
+        {
+            "bairro_via_cep_1": "Parque Nova Esperança",
+            "bairro_via_cep_2": "Parque Nova Esperança",
+            "bairro_site_____": "Parque Nova Esperança",
+            "cep_1": "12226010",
+            "cep_2": "12226201"
+        },
+        {
+            "bairro_via_cep_1": "Parque Novo Horizonte",
+            "bairro_via_cep_2": "Parque Novo Horizonte",
+            "bairro_site_____": "Parque Novo Horizonte",
+            "cep_1": "12225600",
+            "cep_2": "12225836"
+        },
+        {
+            "bairro_via_cep_1": "Parque Residencial Aquarius",
+            "bairro_via_cep_2": "Parque Residencial Aquarius",
+            "bairro_site_____": "Parque Residencial Aquarius",
+            "cep_1": "12246000",
+            "cep_2": "12246902"
+        },
+        {
+            "bairro_via_cep_1": "Parque Residencial Flamboyant",
+            "bairro_via_cep_2": "Parque Residencial Flamboyant",
+            "bairro_site_____": "Parque Residencial Flamboyant",
+            "cep_1": "12227774",
+            "cep_2": "12227801"
+        },
+        {
+            "bairro_via_cep_1": "Parque Santa Rita",
+            "bairro_via_cep_2": "Parque Santa Rita",
+            "bairro_site_____": "Parque Santa Rita",
+            "cep_1": "12227180",
+            "cep_2": "12227270"
+        },
+        {
+            "bairro_via_cep_1": "Parque Santos Dumont",
+            "bairro_via_cep_2": "Parque Santos Dumont",
+            "bairro_site_____": "Parque Santos Dumont",
+            "cep_1": "12227810",
+            "cep_2": "12227840"
+        },
+        {
+            "bairro_via_cep_1": "Portal de Minas",
+            "bairro_via_cep_2": "Portal de Minas",
+            "bairro_site_____": "Portal de Minas",
+            "cep_1": "12211140",
+            "cep_2": "12211153"
+        },
+        {
+            "bairro_via_cep_1": "Portal do Céu",
+            "bairro_via_cep_2": "Portal do Céu",
+            "bairro_site_____": "Portal do Céu",
+            "cep_1": "12226231",
+            "cep_2": "12226243"
+        },
+        {
+            "bairro_via_cep_1": "Portal dos Passaros",
+            "bairro_via_cep_2": "Portal dos Passaros",
+            "bairro_site_____": "Portal dos Passaros",
+            "cep_1": "12227812",
+            "cep_2": "12227824"
+        },
+        {
+            "bairro_via_cep_1": "Primavera 1A",
+            "bairro_via_cep_2": "Primavera 1A",
+            "bairro_site_____": "Primavera 1A",
+            "cep_1": "12226204",
+            "cep_2": "12226211"
+        },
+        {
+            "bairro_via_cep_1": "Primavera 1B",
+            "bairro_via_cep_2": "Primavera 1B",
+            "bairro_site_____": "Primavera 1B",
+            "cep_1": "12226206",
+            "cep_2": "12226250"
+        },
+        {
+            "bairro_via_cep_1": "Putim",
+            "bairro_via_cep_2": "Putim",
+            "bairro_site_____": "Putim",
+            "cep_1": "12227901",
+            "cep_2": "12228840"
+        },
+        {
+            "bairro_via_cep_1": "Recanto Caeté",
+            "bairro_via_cep_2": "Recanto Caeté",
+            "bairro_site_____": "Recanto Caeté",
+            "cep_1": "12213220",
+            "cep_2": "12213260"
+        },
+        {
+            "bairro_via_cep_1": "Recanto dos Eucaliptos",
+            "bairro_via_cep_2": "Recanto dos Eucaliptos",
+            "bairro_site_____": "Recanto dos Eucaliptos",
+            "cep_1": "12228061",
+            "cep_2": "12228067"
+        },
+        {
+            "bairro_via_cep_1": "Recanto dos Nobres",
+            "bairro_via_cep_2": "Recanto dos Nobres",
+            "bairro_site_____": "Recanto dos Nobres",
+            "cep_1": "12227531",
+            "cep_2": "12227535"
+        },
+        {
+            "bairro_via_cep_1": "Recanto dos Pinheiros",
+            "bairro_via_cep_2": "Recanto dos Pinheiros",
+            "bairro_site_____": "Recanto dos Pinheiros",
+            "cep_1": "12237670",
+            "cep_2": "12237671"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Alto dos Ypês",
+            "bairro_via_cep_2": "Residencial Alto dos Ypês",
+            "bairro_site_____": "Residencial Alto dos Ypês",
+            "cep_1": "12213281",
+            "cep_2": "12213287"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Altos do Bosque",
+            "bairro_via_cep_2": "Residencial Altos do Bosque",
+            "bairro_site_____": "Residencial Altos do Bosque",
+            "cep_1": "12239841",
+            "cep_2": "12239862"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Ana Maria",
+            "bairro_via_cep_2": "Residencial Ana Maria",
+            "bairro_site_____": "Residencial Ana Maria",
+            "cep_1": "12224811",
+            "cep_2": "12224828"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Armando Moreira Righi",
+            "bairro_via_cep_2": "Residencial Armando Moreira Righi",
+            "bairro_site_____": "Residencial Armando Moreira Righi",
+            "cep_1": "12247790",
+            "cep_2": "12247829"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Bosque dos Ipês",
+            "bairro_via_cep_2": "Residencial Bosque dos Ipês",
+            "bairro_site_____": "Residencial Bosque dos Ipês",
+            "cep_1": "12236811",
+            "cep_2": "12236899"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Cambuí",
+            "bairro_via_cep_2": "Residencial Cambuí",
+            "bairro_site_____": "Residencial Cambuí",
+            "cep_1": "12227071",
+            "cep_2": "12227078"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Caminho das Montanhas",
+            "bairro_via_cep_2": "Residencial Caminho das Montanhas",
+            "bairro_site_____": "Residencial Caminho das Montanhas",
+            "cep_1": "12213631",
+            "cep_2": "12213634"
+        },
+        {
+            "bairro_via_cep_1": "Residencial de Ville",
+            "bairro_via_cep_2": "Residencial de Ville",
+            "bairro_site_____": "Residencial de Ville",
+            "cep_1": "12237871",
+            "cep_2": "12237876"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Dom Bosco",
+            "bairro_via_cep_2": "Residencial Dom Bosco",
+            "bairro_site_____": "Residencial Dom Bosco",
+            "cep_1": "12225850",
+            "cep_2": "12225884"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Dunamis",
+            "bairro_via_cep_2": "Residencial Dunamis",
+            "bairro_site_____": "Residencial Dunamis",
+            "cep_1": "12226748",
+            "cep_2": "12226829"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Frei Galvão",
+            "bairro_via_cep_2": "Residencial Frei Galvão",
+            "bairro_site_____": "Residencial Frei Galvão",
+            "cep_1": "12248700",
+            "cep_2": "12248712"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Gazzo",
+            "bairro_via_cep_2": "Residencial Gazzo",
+            "bairro_site_____": "Residencial Gazzo",
+            "cep_1": "12236843",
+            "cep_2": "12236853"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Independência",
+            "bairro_via_cep_2": "Residencial Independência",
+            "bairro_site_____": "Residencial Independência",
+            "cep_1": "12213342",
+            "cep_2": "12213345"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Interlagos",
+            "bairro_via_cep_2": "Residencial Interlagos",
+            "bairro_site_____": "Residencial Interlagos",
+            "cep_1": "12229072",
+            "cep_2": "12229076"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Jatobá",
+            "bairro_via_cep_2": "Residencial Jatobá",
+            "bairro_site_____": "Residencial Jatobá",
+            "cep_1": "12228123",
+            "cep_2": "12228183"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Juritis",
+            "bairro_via_cep_2": "Residencial Juritis",
+            "bairro_site_____": "Residencial Juritis",
+            "cep_1": "12228261",
+            "cep_2": "12228266"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Pinheirinho dos Palmares II",
+            "bairro_via_cep_2": "Residencial Pinheirinho dos Palmares II",
+            "bairro_site_____": "Residencial Pinheirinho dos Palmares II",
+            "cep_1": "12228031",
+            "cep_2": "12228085"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Planalto",
+            "bairro_via_cep_2": "Residencial Planalto",
+            "bairro_site_____": "Residencial Planalto",
+            "cep_1": "12220010",
+            "cep_2": "12220041"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Ribeira",
+            "bairro_via_cep_2": "Residencial Ribeira",
+            "bairro_site_____": "Residencial Ribeira",
+            "cep_1": "12247351",
+            "cep_2": "12247359"
+        },
+        {
+            "bairro_via_cep_1": "Residencial São Francisco",
+            "bairro_via_cep_2": "Residencial São Francisco",
+            "bairro_site_____": "Residencial São Francisco",
+            "cep_1": "12227850",
+            "cep_2": "12227866"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Sol Nascente",
+            "bairro_via_cep_2": "Residencial Sol Nascente",
+            "bairro_site_____": "Residencial Sol Nascente",
+            "cep_1": "12236050",
+            "cep_2": "12236072"
+        },
+        {
+            "bairro_via_cep_1": "Residencial Tatetuba",
+            "bairro_via_cep_2": "Residencial Tatetuba",
+            "bairro_site_____": "Residencial Tatetuba",
+            "cep_1": "12220050",
+            "cep_2": "12220120"
+        },
+        {
+            "bairro_via_cep_1": "Residencial União",
+            "bairro_via_cep_2": "Residencial União",
+            "bairro_site_____": "Residencial União",
+            "cep_1": "12239001",
+            "cep_2": "12239058"
+        },
+        {
+            "bairro_via_cep_1": "Rio Comprido",
+            "bairro_via_cep_2": "Rio Comprido",
+            "bairro_site_____": "Rio Comprido",
+            "cep_1": "12238531",
+            "cep_2": "12238551"
+        },
+        {
+            "bairro_via_cep_1": "Ronda",
+            "bairro_via_cep_2": "Ronda",
+            "bairro_site_____": "Ronda",
+            "cep_1": "12221842",
+            "cep_2": "12221900"
+        },
+        {
+            "bairro_via_cep_1": "Santa Cecília II",
+            "bairro_via_cep_2": "Santa Cecília II",
+            "bairro_site_____": "Santa Cecília II",
+            "cep_1": "12226331",
+            "cep_2": "12226349"
+        },
+        {
+            "bairro_via_cep_1": "Santa Helena",
+            "bairro_via_cep_2": "Santa Helena",
+            "bairro_site_____": "Santa Helena",
+            "cep_1": "12225868",
+            "cep_2": "12225889"
+        },
+        {
+            "bairro_via_cep_1": "Santa Lúcia",
+            "bairro_via_cep_2": "Santa Lúcia",
+            "bairro_site_____": "Santa Lúcia",
+            "cep_1": "12226171",
+            "cep_2": "12226179"
+        },
+        {
+            "bairro_via_cep_1": "Santa Rita",
+            "bairro_via_cep_2": "Santa Rita",
+            "bairro_site_____": "Santa Rita",
+            "cep_1": "12226251",
+            "cep_2": "12226255"
+        },
+        {
+            "bairro_via_cep_1": "Santana",
+            "bairro_via_cep_2": "Santana",
+            "bairro_site_____": "Santana",
+            "cep_1": "12211115",
+            "cep_2": "12212970"
+        },
+        {
+            "bairro_via_cep_1": "Serimbura",
+            "bairro_via_cep_2": "Serimbura",
+            "bairro_site_____": "Serimbura",
+            "cep_1": "12244681",
+            "cep_2": "12244681"
+        },
+        {
+            "bairro_via_cep_1": "Serrote",
+            "bairro_via_cep_2": "Serrote",
+            "bairro_site_____": "Serrote",
+            "cep_1": "12226723",
+            "cep_2": "12226723"
+        },
+        {
+            "bairro_via_cep_1": "Setville Altos de São José",
+            "bairro_via_cep_2": "Setville Altos de São José",
+            "bairro_site_____": "Setville Altos de São José",
+            "cep_1": "12226601",
+            "cep_2": "12226649"
+        },
+        {
+            "bairro_via_cep_1": "Torrão de Ouro II",
+            "bairro_via_cep_2": "Torrão de Ouro II",
+            "bairro_site_____": "Torrão de Ouro II",
+            "cep_1": "12229840",
+            "cep_2": "12229849"
+        },
+        {
+            "bairro_via_cep_1": "Urbanova",
+            "bairro_via_cep_2": "Urbanova",
+            "bairro_site_____": "Urbanova",
+            "cep_1": "12244000",
+            "cep_2": "12244890"
+        },
+        {
+            "bairro_via_cep_1": "Urbanova I",
+            "bairro_via_cep_2": "Urbanova I",
+            "bairro_site_____": "Urbanova I",
+            "cep_1": "12244030",
+            "cep_2": "12244340"
+        },
+        {
+            "bairro_via_cep_1": "Urbanova III",
+            "bairro_via_cep_2": "Urbanova III",
+            "bairro_site_____": "Urbanova III",
+            "cep_1": "12244461",
+            "cep_2": "12244852"
+        },
+        {
+            "bairro_via_cep_1": "Urbanova IV-A",
+            "bairro_via_cep_2": "Urbanova IV-A",
+            "bairro_site_____": "Urbanova IV-A",
+            "cep_1": "12244460",
+            "cep_2": "12244590"
+        },
+        {
+            "bairro_via_cep_1": "Urbanova V",
+            "bairro_via_cep_2": "Urbanova V",
+            "bairro_site_____": "Urbanova V",
+            "cep_1": "12244855",
+            "cep_2": "12244873"
+        },
+        {
+            "bairro_via_cep_1": "Urbanova VI",
+            "bairro_via_cep_2": "Urbanova VI",
+            "bairro_site_____": "Urbanova VI",
+            "cep_1": "12244593",
+            "cep_2": "12244617"
+        },
+        {
+            "bairro_via_cep_1": "Urbanova VII",
+            "bairro_via_cep_2": "Urbanova VII",
+            "bairro_site_____": "Urbanova VII",
+            "cep_1": "12244874",
+            "cep_2": "12244892"
+        },
+        {
+            "bairro_via_cep_1": "Vila Adriana",
+            "bairro_via_cep_2": "Vila Adriana",
+            "bairro_site_____": "Vila Adriana",
+            "cep_1": "12228831",
+            "cep_2": "12228849"
+        },
+        {
+            "bairro_via_cep_1": "Vila Adyana",
+            "bairro_via_cep_2": "Jardim São Dimas",
+            "bairro_site_____": "Vila Adyana",
+            "cep_1": "12215901",
+            "cep_2": "12245904"
+        },
+        {
+            "bairro_via_cep_1": "Vila Alexandrina",
+            "bairro_via_cep_2": "Vila Alexandrina",
+            "bairro_site_____": "Vila Alexandrina",
+            "cep_1": "12211160",
+            "cep_2": "12211290"
+        },
+        {
+            "bairro_via_cep_1": "Vila Betânia",
+            "bairro_via_cep_2": "Vila Betânia",
+            "bairro_site_____": "Vila Betânia",
+            "cep_1": "12245230",
+            "cep_2": "12245631"
+        },
+        {
+            "bairro_via_cep_1": "Vila Cândida",
+            "bairro_via_cep_2": "Vila Cândida",
+            "bairro_site_____": "Vila Cândida",
+            "cep_1": "12213520",
+            "cep_2": "12213560"
+        },
+        {
+            "bairro_via_cep_1": "Vila Cardoso",
+            "bairro_via_cep_2": "Vila Cardoso",
+            "bairro_site_____": "Vila Cardoso",
+            "cep_1": "12216781",
+            "cep_2": "12216784"
+        },
+        {
+            "bairro_via_cep_1": "Vila Cristina",
+            "bairro_via_cep_2": "Vila Cristina",
+            "bairro_site_____": "Vila Cristina",
+            "cep_1": "12211120",
+            "cep_2": "12211129"
+        },
+        {
+            "bairro_via_cep_1": "Vila das Flores",
+            "bairro_via_cep_2": "Vila das Flores",
+            "bairro_site_____": "Vila das Flores",
+            "cep_1": "12234750",
+            "cep_2": "12234784"
+        },
+        {
+            "bairro_via_cep_1": "Vila Dirce",
+            "bairro_via_cep_2": "Vila Dirce",
+            "bairro_site_____": "Vila Dirce",
+            "cep_1": "12213010",
+            "cep_2": "12213050"
+        },
+        {
+            "bairro_via_cep_1": "Vila Ema",
+            "bairro_via_cep_2": "Vila Ema",
+            "bairro_site_____": "Vila Ema",
+            "cep_1": "12242900",
+            "cep_2": "12243913"
+        },
+        {
+            "bairro_via_cep_1": "Vila Esmeralda",
+            "bairro_via_cep_2": "Vila Esmeralda",
+            "bairro_site_____": "Vila Esmeralda",
+            "cep_1": "12212190",
+            "cep_2": "12212190"
+        },
+        {
+            "bairro_via_cep_1": "Vila Ester",
+            "bairro_via_cep_2": "Vila Ester",
+            "bairro_site_____": "Vila Ester",
+            "cep_1": "12221570",
+            "cep_2": "12221770"
+        },
+        {
+            "bairro_via_cep_1": "Vila Guaianazes",
+            "bairro_via_cep_2": "Vila Guaianazes",
+            "bairro_site_____": "Vila Guaianazes",
+            "cep_1": "12243320",
+            "cep_2": "12243370"
+        },
+        {
+            "bairro_via_cep_1": "Vila Guarani",
+            "bairro_via_cep_2": "Vila Guarani",
+            "bairro_site_____": "Vila Guarani",
+            "cep_1": "12209750",
+            "cep_2": "12209840"
+        },
+        {
+            "bairro_via_cep_1": "Vila Higienópolis",
+            "bairro_via_cep_2": "Vila Higienópolis",
+            "bairro_site_____": "Vila Higienópolis",
+            "cep_1": "12243760",
+            "cep_2": "12243770"
+        },
+        {
+            "bairro_via_cep_1": "Vila Industrial",
+            "bairro_via_cep_2": "Vila Industrial",
+            "bairro_site_____": "Vila Industrial",
+            "cep_1": "12220000",
+            "cep_2": "12220971"
+        },
+        {
+            "bairro_via_cep_1": "Vila Iracema",
+            "bairro_via_cep_2": "Vila Iracema",
+            "bairro_site_____": "Vila Iracema",
+            "cep_1": "12228121",
+            "cep_2": "12228172"
+        },
+        {
+            "bairro_via_cep_1": "Vila Jaci",
+            "bairro_via_cep_2": "Vila Jaci",
+            "bairro_site_____": "Vila Jaci",
+            "cep_1": "12211360",
+            "cep_2": "12211411"
+        },
+        {
+            "bairro_via_cep_1": "Vila Letônia",
+            "bairro_via_cep_2": "Vila Letônia",
+            "bairro_site_____": "Vila Letônia",
+            "cep_1": "12231171",
+            "cep_2": "12231171"
+        },
+        {
+            "bairro_via_cep_1": "Vila Lourdes da Silva Monteiro (São Francisco Xavier)",
+            "bairro_via_cep_2": "Vila Lourdes da Silva Monteiro (São Francisco Xavier)",
+            "bairro_site_____": "Vila Lourdes da Silva Monteiro ",
+            "cep_1": "12249100",
+            "cep_2": "12249106"
+        },
+        {
+            "bairro_via_cep_1": "Vila Luchetti",
+            "bairro_via_cep_2": "Vila Luchetti",
+            "bairro_site_____": "Vila Luchetti",
+            "cep_1": "12231563",
+            "cep_2": "12231569"
+        },
+        {
+            "bairro_via_cep_1": "Vila Maria",
+            "bairro_via_cep_2": "Jardim Bela Vista",
+            "bairro_site_____": "Vila Maria",
+            "cep_1": "12209220",
+            "cep_2": "12209901"
+        },
+        {
+            "bairro_via_cep_1": "Vila Mascarenhas Ferraz",
+            "bairro_via_cep_2": "Vila Mascarenhas Ferraz",
+            "bairro_site_____": "Vila Mascarenhas Ferraz",
+            "cep_1": "12209050",
+            "cep_2": "12209161"
+        },
+        {
+            "bairro_via_cep_1": "Vila Matilde",
+            "bairro_via_cep_2": "Vila Matilde",
+            "bairro_site_____": "Vila Matilde",
+            "cep_1": "12226115",
+            "cep_2": "12226115"
+        },
+        {
+            "bairro_via_cep_1": "Vila Monte Alegre",
+            "bairro_via_cep_2": "Vila Monte Alegre",
+            "bairro_site_____": "Vila Monte Alegre",
+            "cep_1": "12212820",
+            "cep_2": "12212820"
+        },
+        {
+            "bairro_via_cep_1": "Vila Monterrey",
+            "bairro_via_cep_2": "Vila Monterrey",
+            "bairro_site_____": "Vila Monterrey",
+            "cep_1": "12226736",
+            "cep_2": "12226846"
+        },
+        {
+            "bairro_via_cep_1": "Vila Nair",
+            "bairro_via_cep_2": "Vila Nair",
+            "bairro_site_____": "Vila Nair",
+            "cep_1": "12231010",
+            "cep_2": "12231360"
+        },
+        {
+            "bairro_via_cep_1": "Vila Nova Conceição",
+            "bairro_via_cep_2": "Vila Nova Conceição",
+            "bairro_site_____": "Vila Nova Conceição",
+            "cep_1": "12231080",
+            "cep_2": "12231270"
+        },
+        {
+            "bairro_via_cep_1": "Vila Nova Cristina",
+            "bairro_via_cep_2": "Vila Nova Cristina",
+            "bairro_site_____": "Vila Nova Cristina",
+            "cep_1": "12211135",
+            "cep_2": "12211139"
+        },
+        {
+            "bairro_via_cep_1": "Vila Nova São José",
+            "bairro_via_cep_2": "Vila Nova São José",
+            "bairro_site_____": "Vila Nova São José",
+            "cep_1": "12209300",
+            "cep_2": "12209420"
+        },
+        {
+            "bairro_via_cep_1": "Vila Paiva",
+            "bairro_via_cep_2": "Vila Paiva",
+            "bairro_site_____": "Vila Paiva",
+            "cep_1": "12213350",
+            "cep_2": "12213511"
+        },
+        {
+            "bairro_via_cep_1": "Vila Patrícia",
+            "bairro_via_cep_2": "Vila Patrícia",
+            "bairro_site_____": "Vila Patrícia",
+            "cep_1": "12221703",
+            "cep_2": "12221709"
+        },
+        {
+            "bairro_via_cep_1": "Vila Progresso",
+            "bairro_via_cep_2": "Vila Progresso",
+            "bairro_site_____": "Vila Progresso",
+            "cep_1": "12215090",
+            "cep_2": "12215270"
+        },
+        {
+            "bairro_via_cep_1": "Vila Rangel",
+            "bairro_via_cep_2": "Vila Rangel",
+            "bairro_site_____": "Vila Rangel",
+            "cep_1": "12211430",
+            "cep_2": "12211463"
+        },
+        {
+            "bairro_via_cep_1": "Vila Rica",
+            "bairro_via_cep_2": "Vila Rica",
+            "bairro_site_____": "Vila Rica",
+            "cep_1": "12228080",
+            "cep_2": "12228122"
+        },
+        {
+            "bairro_via_cep_1": "Vila Rossi",
+            "bairro_via_cep_2": "Vila Rossi",
+            "bairro_site_____": "Vila Rossi",
+            "cep_1": "12211030",
+            "cep_2": "12211902"
+        },
+        {
+            "bairro_via_cep_1": "Vila Rubi",
+            "bairro_via_cep_2": "Vila Rubi",
+            "bairro_site_____": "Vila Rubi",
+            "cep_1": "12245090",
+            "cep_2": "12245591"
+        },
+        {
+            "bairro_via_cep_1": "Vila Sanches",
+            "bairro_via_cep_2": "Vila Sanches",
+            "bairro_site_____": "Vila Sanches",
+            "cep_1": "12245500",
+            "cep_2": "12245521"
+        },
+        {
+            "bairro_via_cep_1": "Vila Santa Helena",
+            "bairro_via_cep_2": "Vila Santa Helena",
+            "bairro_site_____": "Vila Santa Helena",
+            "cep_1": "12209060",
+            "cep_2": "12209080"
+        },
+        {
+            "bairro_via_cep_1": "Vila Santa Rita",
+            "bairro_via_cep_2": "Vila Santa Rita",
+            "bairro_site_____": "Vila Santa Rita",
+            "cep_1": "12242282",
+            "cep_2": "12242320"
+        },
+        {
+            "bairro_via_cep_1": "Vila São Benedito",
+            "bairro_via_cep_2": "Vila São Benedito",
+            "bairro_site_____": "Vila São Benedito",
+            "cep_1": "12227020",
+            "cep_2": "12227070"
+        },
+        {
+            "bairro_via_cep_1": "Vila São Bento",
+            "bairro_via_cep_2": "Vila São Bento",
+            "bairro_site_____": "Vila São Bento",
+            "cep_1": "12231370",
+            "cep_2": "12231602"
+        },
+        {
+            "bairro_via_cep_1": "Vila São Geraldo",
+            "bairro_via_cep_2": "Vila São Geraldo",
+            "bairro_site_____": "Vila São Geraldo",
+            "cep_1": "12213210",
+            "cep_2": "12213341"
+        },
+        {
+            "bairro_via_cep_1": "Vila São Pedro",
+            "bairro_via_cep_2": "Vila São Pedro",
+            "bairro_site_____": "Vila São Pedro",
+            "cep_1": "12215670",
+            "cep_2": "12216420"
+        },
+        {
+            "bairro_via_cep_1": "Vila Sinhá",
+            "bairro_via_cep_2": "Vila Sinhá",
+            "bairro_site_____": "Vila Sinhá",
+            "cep_1": "12212630",
+            "cep_2": "12212659"
+        },
+        {
+            "bairro_via_cep_1": "Vila Tatetuba",
+            "bairro_via_cep_2": "Vila Tatetuba",
+            "bairro_site_____": "Vila Tatetuba",
+            "cep_1": "12220130",
+            "cep_2": "12220650"
+        },
+        {
+            "bairro_via_cep_1": "Vila Terezinha",
+            "bairro_via_cep_2": "Vila Terezinha",
+            "bairro_site_____": "Vila Terezinha",
+            "cep_1": "12209670",
+            "cep_2": "12209705"
+        },
+        {
+            "bairro_via_cep_1": "Vila Tesouro",
+            "bairro_via_cep_2": "Vila Tesouro",
+            "bairro_site_____": "Vila Tesouro",
+            "cep_1": "12221411",
+            "cep_2": "12221841"
+        },
+        {
+            "bairro_via_cep_1": "Vila Unidos",
+            "bairro_via_cep_2": "Vila Unidos",
+            "bairro_site_____": "Vila Unidos",
+            "cep_1": "12214501",
+            "cep_2": "12214512"
+        },
+        {
+            "bairro_via_cep_1": "Vila Veneziani",
+            "bairro_via_cep_2": "Vila Veneziani",
+            "bairro_site_____": "Vila Veneziani",
+            "cep_1": "12212350",
+            "cep_2": "12212610"
+        },
+        {
+            "bairro_via_cep_1": "Vila Zizinha",
+            "bairro_via_cep_2": "Vila Zizinha",
+            "bairro_site_____": "Vila Zizinha",
+            "cep_1": "12211005",
+            "cep_2": "12211021"
+        }
+    ]
+}
